@@ -29,7 +29,7 @@
         width: 60%;
         text-align: right;
         padding: 15px 10px;
-        z-index: 3;
+        z-index: 2;
         position: absolute;
     
         span {
@@ -49,5 +49,7 @@
 
     .content {
         position: absolute;
+        height: 100%;
+        z-index: 1;
     }
 }

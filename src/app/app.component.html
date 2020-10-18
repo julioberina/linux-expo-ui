@@ -4,7 +4,7 @@
     <h1>SCaLE</h1>
 </div>
 
-<div class="package">
+<div class="package" (click)="outFocus()">
     <div [@openClose]="isMenuOpen ? 'open' : 'closed'" class="menu">
         <span *ngFor="let item of menuItemKeys()">
             <em>*</em>
@@ -13,6 +13,14 @@
     </div>
 
     <div class="content">
-        <p>Announcements</p>
+        <app-announcements *ngIf="currentPage === 'announcements'"></app-announcements>
+        <app-schedule *ngIf="currentPage === 'schedule'"></app-schedule>
+        <app-my-schedule *ngIf="currentPage === 'my-schedule'"></app-my-schedule>
+        <app-contacts *ngIf="currentPage === 'contacts'"></app-contacts>
+        <app-exhibitors *ngIf="currentPage === 'exhibitors'"></app-exhibitors>
+        <app-speakers *ngIf="currentPage === 'speakers'"></app-speakers>
+        <app-special-events *ngIf="currentPage === 'special-events'"></app-special-events>
+        <app-qr-code *ngIf="currentPage === 'qr-code'"></app-qr-code>
+        <app-campus-map *ngIf="currentPage === 'campus-map'"></app-campus-map>
     </div>
 </div>

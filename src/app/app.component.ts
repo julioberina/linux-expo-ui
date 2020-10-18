@@ -29,6 +29,7 @@ export class AppComponent {
   public faArrowLeft = faArrowLeft;
   public arrowClass = 'hidden';
   public isMenuOpen = false;
+  public currentPage = 'announcements';
   public menuItems = {
     'Schedule': 'schedule',
     'My Schedule': 'my-schedule',
@@ -47,17 +48,22 @@ export class AppComponent {
   }
 
   public menuItemClicked(item: string) {
-    console.log(item);
-    this.pageStack.push(this.menuItems[item]);
+    this.currentPage = this.menuItems[item];
+    this.pageStack.push(this.currentPage);
     this.arrowClass = this.pageStack.length === 0 ? 'hidden' : '';
   }
 
   public arrowClicked() {
     this.pageStack.pop();
+    this.currentPage = this.pageStack.length ? this.pageStack[this.pageStack.length-1] : 'announcements';
     this.arrowClass = this.pageStack.length === 0 ? 'hidden' : '';
   }
 
   public menuItemKeys(): string[] {
     return Object.keys(this.menuItems);
+  }
+
+  public outFocus() {
+    this.isMenuOpen = false;
   }
 }
