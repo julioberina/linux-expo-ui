@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "linux-expo-ui"
+    }
+  },
+  "defaultProject": "linux-expo-ui",
+  "cli": {
+    "analytics": false
+  }
 }
