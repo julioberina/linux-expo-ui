@@ -4,9 +4,15 @@
     <h1>SCaLE</h1>
 </div>
 
-<div class="menu">
-    <span *ngFor="let item of menuItemKeys()">
-        <em>*</em>
-        <p (click)="menuItemClicked(item)">{{ item }}</p>
-    </span>
+<div class="package">
+    <div [@openClose]="isMenuOpen ? 'open' : 'closed'" class="menu">
+        <span *ngFor="let item of menuItemKeys()">
+            <em>*</em>
+            <p (click)="menuItemClicked(item)">{{ item }}</p>
+        </span>
+    </div>
+
+    <div class="content">
+        <p>Announcements</p>
+    </div>
 </div>

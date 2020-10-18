@@ -20,23 +20,34 @@
     }
 }
 
-.menu {
-    background-color: #E9F2F9;
-    width: 60%;
-    text-align: right;
-    padding: 15px 10px;
+.package {
+    position: relative;
+    width: 100%;
 
-    span {
-        display: flex;
-        justify-content: space-between;
-        font-weight: bold;
-
-        em {
-            color: #EB6C4B;
+    .menu {
+        background-color: #E9F2F9;
+        width: 60%;
+        text-align: right;
+        padding: 15px 10px;
+        z-index: 3;
+        position: absolute;
+    
+        span {
+            display: flex;
+            justify-content: space-between;
+            font-weight: bold;
+    
+            em {
+                color: #EB6C4B;
+            }
+    
+            p {
+                color: #1D3261;
+            }
         }
+    }
 
-        p {
-            color: #1D3261;
-        }
+    .content {
+        position: absolute;
     }
 }
