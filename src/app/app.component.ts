@@ -1,6 +1,7 @@
 import { animate, state, style, transition, trigger } from '@angular/animations';
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { faBars, faArrowLeft } from '@fortawesome/free-solid-svg-icons';
+import { AppService } from './app.service';
 
 @Component({
   selector: 'app-root',
@@ -24,7 +25,7 @@ import { faBars, faArrowLeft } from '@fortawesome/free-solid-svg-icons';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })
-export class AppComponent {
+export class AppComponent implements OnInit {
   public faBars = faBars;
   public faArrowLeft = faArrowLeft;
   public arrowClass = 'hidden';
@@ -42,6 +43,12 @@ export class AppComponent {
   };
 
   private pageStack = [];
+
+  constructor(private appService: AppService) 
+  {}
+
+  public ngOnInit() {
+  }
 
   public menuClicked() {
     this.isMenuOpen = !this.isMenuOpen;

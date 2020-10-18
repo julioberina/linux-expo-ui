@@ -1,5 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { HttpClientModule } from '@angular/common/http';
 
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
@@ -13,6 +14,7 @@ import { SpeakersComponent } from './speakers/speakers.component';
 import { SpecialEventsComponent } from './special-events/special-events.component';
 import { QrCodeComponent } from './qr-code/qr-code.component';
 import { CampusMapComponent } from './campus-map/campus-map.component';
+import { AppService } from './app.service';
 
 @NgModule({
   declarations: [
@@ -30,9 +32,10 @@ import { CampusMapComponent } from './campus-map/campus-map.component';
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
-    FontAwesomeModule
+    FontAwesomeModule,
+    HttpClientModule
   ],
-  providers: [],
+  providers: [AppService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
