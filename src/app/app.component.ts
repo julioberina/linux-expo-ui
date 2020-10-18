@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { faBars, faArrowLeft } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,14 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'linux-expo-ui';
+  public faBars = faBars;
+  public faArrowLeft = faArrowLeft;
+
+  public menuClicked() {
+    console.log('menu clicked');
+  }
+
+  public arrowClicked() {
+    console.log('arrow clicked');
+  }
 }
