@@ -19,3 +19,24 @@
         visibility: hidden;
     }
 }
+
+.menu {
+    background-color: #E9F2F9;
+    width: 60%;
+    text-align: right;
+    padding: 15px 10px;
+
+    span {
+        display: flex;
+        justify-content: space-between;
+        font-weight: bold;
+
+        em {
+            color: #EB6C4B;
+        }
+
+        p {
+            color: #1D3261;
+        }
+    }
+}

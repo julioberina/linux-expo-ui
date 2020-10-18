@@ -10,18 +10,33 @@ export class AppComponent {
   public faBars = faBars;
   public faArrowLeft = faArrowLeft;
   public arrowClass = 'hidden';
+  public menuItems = {
+    'Schedule': 'schedule',
+    'My Schedule': 'my-schedule',
+    'Contacts': 'contacts',
+    'Exhibitors': 'exhibitors',
+    'Speakers': 'speakers',
+    'Special Events': 'special-events',
+    'Scan Badge QR Code': 'qr-code',
+    'Campus Map': 'campus-map'
+  };
 
   private pageStack = [];
 
   public menuClicked() {
-    console.log('menu clicked');
-    this.pageStack.push('component');
-    this.arrowClass = '';
+  }
+
+  public menuItemClicked(item: string) {
+    this.pageStack.push(this.menuItems[item]);
+    this.arrowClass = this.pageStack.length === 0 ? 'hidden' : '';
   }
 
   public arrowClicked() {
-    console.log('arrow clicked');
     this.pageStack.pop();
     this.arrowClass = this.pageStack.length === 0 ? 'hidden' : '';
+  }
+
+  public menuItemKeys(): string[] {
+    return Object.keys(this.menuItems);
   }
 }

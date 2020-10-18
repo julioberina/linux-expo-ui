@@ -3,3 +3,10 @@
     <fa-icon [icon]="faArrowLeft" size="2x" (click)="arrowClicked()" [ngClass]="arrowClass"></fa-icon>
     <h1>SCaLE</h1>
 </div>
+
+<div class="menu">
+    <span *ngFor="let item of menuItemKeys()">
+        <em>*</em>
+        <p (click)="menuItemClicked(item)">{{ item }}</p>
+    </span>
+</div>
