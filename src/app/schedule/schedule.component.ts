@@ -10,6 +10,9 @@ export class ScheduleComponent implements OnInit {
   public schedule;
   public displayedSchedule;
 
+  private mySchedule = [];
+  private myScheduleItems = {};
+
   constructor(private appService: AppService) 
   { }
 
@@ -17,10 +20,40 @@ export class ScheduleComponent implements OnInit {
     this.schedule = this.appService.getSchedule().default.nodes.node;
     this.normalizeData();
     this.displayedSchedule = this.schedule;
+    
+    if (JSON.parse(localStorage.getItem('mySchedule'))) {
+      this.mySchedule = JSON.parse(localStorage.getItem('mySchedule'));
+    } else {
+      this.mySchedule = [];
+    }
+
+    if (JSON.parse(localStorage.getItem('myScheduleItems'))) {
+      this.myScheduleItems = JSON.parse(localStorage.getItem('myScheduleItems'));
+    } else {
+      this.myScheduleItems = {};
+    }
   }
 
   public onButtonToggle(day: string) {
     this.displayedSchedule = this.schedule.filter(item => item['Day'] === day);
+  }
+
+  public inMySchedule(path: string) {
+    return this.myScheduleItems[path];
+  }
+
+  public addMyScheduleItem(item: any) {
+    this.myScheduleItems[item.Path] = true;
+    this.mySchedule.push(item);
+    localStorage.setItem('myScheduleItems', JSON.stringify(this.myScheduleItems));
+    localStorage.setItem('mySchedule', JSON.stringify(this.mySchedule));
+  }
+
+  public removeMyScheduleItem(item: any) {
+    this.myScheduleItems[item.Path] = false;
+    this.mySchedule = this.mySchedule.filter(i => i.Path !== item.Path);
+    localStorage.setItem('myScheduleItems', JSON.stringify(this.myScheduleItems));
+    localStorage.setItem('mySchedule', JSON.stringify(this.mySchedule));
   }
 
   private normalizeData() {
