@@ -16,6 +16,9 @@ import { QrCodeComponent } from './qr-code/qr-code.component';
 import { CampusMapComponent } from './campus-map/campus-map.component';
 import { AppService } from './app.service';
 import { MatCardModule } from '@angular/material/card';
+import { MatButtonModule } from '@angular/material/button';
+import { MatButtonToggleModule } from '@angular/material/button-toggle';
+import { MatIconModule } from '@angular/material/icon';
 
 @NgModule({
   declarations: [
@@ -35,7 +38,10 @@ import { MatCardModule } from '@angular/material/card';
     BrowserAnimationsModule,
     FontAwesomeModule,
     HttpClientModule,
-    MatCardModule
+    MatCardModule,
+    MatButtonModule,
+    MatButtonToggleModule,
+    MatIconModule
   ],
   providers: [AppService],
   bootstrap: [AppComponent]

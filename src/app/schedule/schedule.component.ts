@@ -8,6 +8,7 @@ import { AppService } from '../app.service';
 })
 export class ScheduleComponent implements OnInit {
   public schedule;
+  public displayedSchedule;
 
   constructor(private appService: AppService) 
   { }
@@ -15,6 +16,11 @@ export class ScheduleComponent implements OnInit {
   ngOnInit(): void {
     this.schedule = this.appService.getSchedule().default.nodes.node;
     this.normalizeData();
+    this.displayedSchedule = this.schedule;
+  }
+
+  public onButtonToggle(day: string) {
+    this.displayedSchedule = this.schedule.filter(item => item['Day'] === day);
   }
 
   private normalizeData() {

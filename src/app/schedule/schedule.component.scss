@@ -1,8 +1,16 @@
-div {
+mat-button-toggle-group {
+    width: 100vw;
+
+    mat-button-toggle {
+        width: 25vw;
+    }
+}
+
+div.cards {
     width: 90vw;
     padding-top: 10px;
     padding-bottom: 10px;
-    padding-left: 3.5vw;
+    padding-left: 1.5vw;
     
     mat-card {
         width: 90vw;

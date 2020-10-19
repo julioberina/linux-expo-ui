@@ -1,9 +1,22 @@
+<mat-button-toggle-group>
+    <mat-button-toggle appearance="outline" value="Thursday" (change)="onButtonToggle($event.value)">Thursday</mat-button-toggle>
+    <mat-button-toggle appearance="outline" value="Friday" (change)="onButtonToggle($event.value)">Friday</mat-button-toggle>
+    <mat-button-toggle appearance="outline" value="Saturday" (change)="onButtonToggle($event.value)">Saturday</mat-button-toggle>
+    <mat-button-toggle appearance="outline" value="Sunday" (change)="onButtonToggle($event.value)">Sunday</mat-button-toggle>
+</mat-button-toggle-group>
+
 <br />
-<div *ngFor="let item of schedule">
+
+<div class="cards" *ngFor="let item of displayedSchedule">
     <mat-card>
         <mat-card-title>{{ item.Title }}</mat-card-title>
         <mat-card-subtitle>{{ item.Day}}, {{ item.Time }}</mat-card-subtitle>
         <mat-card-content>{{ item['Short-abstract'] }}</mat-card-content>
         <mat-card-footer>Topic: <strong>{{ item.Topic }}</strong></mat-card-footer>
+        <mat-card-actions>
+            <button mat-mini-fab color="primary">
+                <mat-icon>add</mat-icon>
+            </button>
+        </mat-card-actions>
     </mat-card>
 </div>
