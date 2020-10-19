@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { MatSnackBar } from '@angular/material/snack-bar';
 import { AppService } from '../app.service';
 
 @Component({
@@ -13,7 +14,8 @@ export class ScheduleComponent implements OnInit {
   private mySchedule = [];
   private myScheduleItems = {};
 
-  constructor(private appService: AppService) 
+  constructor(private appService: AppService,
+              private snackBar: MatSnackBar) 
   { }
 
   ngOnInit(): void {
@@ -47,6 +49,7 @@ export class ScheduleComponent implements OnInit {
     this.mySchedule.push(item);
     localStorage.setItem('myScheduleItems', JSON.stringify(this.myScheduleItems));
     localStorage.setItem('mySchedule', JSON.stringify(this.mySchedule));
+    this.snackBar.open('Added event to My Schedule', 'Dismiss', { duration: 2000 });
   }
 
   public removeMyScheduleItem(item: any) {
@@ -54,6 +57,7 @@ export class ScheduleComponent implements OnInit {
     this.mySchedule = this.mySchedule.filter(i => i.Path !== item.Path);
     localStorage.setItem('myScheduleItems', JSON.stringify(this.myScheduleItems));
     localStorage.setItem('mySchedule', JSON.stringify(this.mySchedule));
+    this.snackBar.open('Removed event from My Schedule', 'Dismiss', { duration: 2000 });
   }
 
   private normalizeData() {
