@@ -19,8 +19,7 @@ export class ScheduleComponent implements OnInit {
   { }
 
   ngOnInit(): void {
-    this.schedule = this.appService.getSchedule().default.nodes.node;
-    this.normalizeData();
+    this.schedule = this.appService.getSchedule().default;
     this.displayedSchedule = this.schedule;
     
     if (JSON.parse(localStorage.getItem('mySchedule'))) {

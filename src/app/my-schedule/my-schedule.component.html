@@ -7,19 +7,18 @@
 
 <br />
 
-<div class="cards" *ngFor="let item of displayedSchedule">
-    <mat-card>
-        <mat-card-title>{{ item.Title }}</mat-card-title>
-        <mat-card-subtitle>{{ item.Day}}, {{ item.Time }}</mat-card-subtitle>
-        <mat-card-content>{{ item['Short-abstract'] }}</mat-card-content>
-        <mat-card-footer>Topic: <strong>{{ item.Topic }}</strong></mat-card-footer>
-        <mat-card-actions>
-            <button mat-mini-fab color="primary" *ngIf="!inMySchedule(item.Path)" (click)="addMyScheduleItem(item)">
-                <mat-icon>add</mat-icon>
-            </button>
-            <button mat-mini-fab color="warn" *ngIf="inMySchedule(item.Path)" (click)="removeMyScheduleItem(item)">
-                <mat-icon>remove</mat-icon>
-            </button>
-        </mat-card-actions>
-    </mat-card>
-</div>
+<ng-container *ngFor="let item of displayedSchedule">
+    <div class="cards" *ngIf="inMySchedule(item.Path)">
+        <mat-card>
+            <mat-card-title>{{ item.Title }}</mat-card-title>
+            <mat-card-subtitle>{{ item.Day}}, {{ item.Time }}</mat-card-subtitle>
+            <mat-card-content>{{ item['Short-abstract'] }}</mat-card-content>
+            <mat-card-footer>Topic: <strong>{{ item.Topic }}</strong></mat-card-footer>
+            <mat-card-actions>
+                <button mat-mini-fab color="warn" (click)="removeMyScheduleItem(item)">
+                    <mat-icon>remove</mat-icon>
+                </button>
+            </mat-card-actions>
+        </mat-card>
+    </div>
+</ng-container>
