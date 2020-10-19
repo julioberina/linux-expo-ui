@@ -12,13 +12,13 @@ import { AppService } from './app.service';
         'margin-left': '0px'
       })),
       state('closed', style({
-        'margin-left': '-300px'
+        'margin-left': '-700px'
       })),
       transition('open => closed', [
-        animate('0.2s')
+        animate('0.25s')
       ]),
       transition('closed => open', [
-        animate('0.2s')
+        animate('0.25s')
       ]),
     ]),
   ],

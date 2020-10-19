@@ -1,0 +1,16 @@
+div {
+    width: 90vw;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 3.5vw;
+    
+    mat-card {
+        width: 90vw;
+        border-radius: 20px;
+        word-wrap: break-word;
+
+        mat-card-footer {
+            margin-left: 1px;
+        }
+    }
+}

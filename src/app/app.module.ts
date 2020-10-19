@@ -15,6 +15,7 @@ import { SpecialEventsComponent } from './special-events/special-events.componen
 import { QrCodeComponent } from './qr-code/qr-code.component';
 import { CampusMapComponent } from './campus-map/campus-map.component';
 import { AppService } from './app.service';
+import { MatCardModule } from '@angular/material/card';
 
 @NgModule({
   declarations: [
@@ -33,7 +34,8 @@ import { AppService } from './app.service';
     BrowserModule,
     BrowserAnimationsModule,
     FontAwesomeModule,
-    HttpClientModule
+    HttpClientModule,
+    MatCardModule
   ],
   providers: [AppService],
   bootstrap: [AppComponent]

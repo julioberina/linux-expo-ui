@@ -1,1 +1,9 @@
-<p>schedule works!</p>
+<br />
+<div *ngFor="let item of schedule">
+    <mat-card>
+        <mat-card-title>{{ item.Title }}</mat-card-title>
+        <mat-card-subtitle>{{ item.Day}}, {{ item.Time }}</mat-card-subtitle>
+        <mat-card-content>{{ item['Short-abstract'] }}</mat-card-content>
+        <mat-card-footer>Topic: <strong>{{ item.Topic }}</strong></mat-card-footer>
+    </mat-card>
+</div>
