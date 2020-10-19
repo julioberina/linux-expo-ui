@@ -24,7 +24,27 @@ export class MyScheduleComponent implements OnInit {
       this.mySchedule = [];
     }
 
-    this.displayedSchedule = this.mySchedule;
+    if (this.mySchedule) {
+      this.mySchedule.filter(item => item['Day'] === 'Thursday').sort((a, b) => {
+        return (Number(a['Time'].split(' - ')[0].replace(':', '')) - 
+        Number(b['Time'].split(' - ')[0].replace(':', '')))
+      }).forEach(item => { this.displayedSchedule.push(item) });
+
+      this.mySchedule.filter(item => item['Day'] === 'Friday').sort((a, b) => {
+        return (Number(a['Time'].split(' - ')[0].replace(':', '')) - 
+        Number(b['Time'].split(' - ')[0].replace(':', '')))
+      }).forEach(item => this.displayedSchedule.push(item));
+
+      this.mySchedule.filter(item => item['Day'] === 'Saturday').sort((a, b) => {
+        return (Number(a['Time'].split(' - ')[0].replace(':', '')) - 
+        Number(b['Time'].split(' - ')[0].replace(':', '')))
+      }).forEach(item => this.displayedSchedule.push(item));
+
+      this.mySchedule.filter(item => item['Day'] === 'Sunday').sort((a, b) => {
+        return (Number(a['Time'].split(' - ')[0].replace(':', '')) - 
+        Number(b['Time'].split(' - ')[0].replace(':', '')))
+      }).forEach(item => this.displayedSchedule.push(item));
+    }
 
     if (JSON.parse(localStorage.getItem('myScheduleItems'))) {
       this.myScheduleItems = JSON.parse(localStorage.getItem('myScheduleItems'));
@@ -34,7 +54,11 @@ export class MyScheduleComponent implements OnInit {
   }
 
   public onButtonToggle(day: string) {
-    this.displayedSchedule = this.mySchedule.filter(item => item['Day'] === day);
+    this.displayedSchedule = [];
+    this.mySchedule.filter(item => item['Day'] === day).sort((a, b) => {
+      return (Number(a['Time'].split(' - ')[0].replace(':', '')) - 
+      Number(b['Time'].split(' - ')[0].replace(':', '')))
+    }).forEach(item => { this.displayedSchedule.push(item) });
   }
 
   public inMySchedule(path: string) {
