@@ -1,8 +1,11 @@
-<div class="navbar">
-    <fa-icon [icon]="faBars" size="2x" (click)="menuClicked()"></fa-icon>
-    <fa-icon [icon]="faArrowLeft" size="2x" (click)="arrowClicked()" [ngClass]="arrowClass"></fa-icon>
-    <h1>SCaLE</h1>
-</div>
+<mat-toolbar color="primary">
+    <button mat-icon-button (click)="menuClicked()" class="example-icon">
+      <mat-icon>menu</mat-icon>
+    </button>
+    <fa-icon [icon]="faArrowLeft" size="sm" (click)="arrowClicked()" [ngClass]="arrowClass"></fa-icon>
+    <span class="example-spacer"></span>
+    <span>SCaLE Conference</span>
+</mat-toolbar>
 
 <div class="package" (click)="outFocus()">
     <div [@openClose]="isMenuOpen ? 'open' : 'closed'" class="menu">

@@ -20,6 +20,14 @@
     }
 }
 
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
 .package {
     position: relative;
     width: 100%;
