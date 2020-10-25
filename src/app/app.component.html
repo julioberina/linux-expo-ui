@@ -10,7 +10,17 @@
 <div class="package">
     <div [@openClose]="isMenuOpen ? 'open' : 'closed'" class="menu">
         <span *ngFor="let item of menuItemKeys(); first as isFirst; last as isLast">
-            <p (click)="menuItemClicked(item)">{{ item }}</p>
+            <p (click)="menuItemClicked(item)">
+                <mat-icon *ngIf="item === 'Schedule'">schedule</mat-icon>
+                <mat-icon *ngIf="item === 'My Schedule'">calendar_today</mat-icon>
+                <mat-icon *ngIf="item === 'Contacts'">contacts</mat-icon>
+                <mat-icon *ngIf="item === 'Exhibitors'">business_center</mat-icon>
+                <mat-icon *ngIf="item === 'Speakers'">people</mat-icon>
+                <mat-icon *ngIf="item === 'Special Events'">event</mat-icon>
+                <mat-icon *ngIf="item === 'Scan Badge QR Code'">qr_code</mat-icon>
+                <mat-icon *ngIf="item === 'Campus Map'">map</mat-icon>
+                {{ item }}
+            </p>
             <hr *ngIf="!isLast">
         </span>
     </div>

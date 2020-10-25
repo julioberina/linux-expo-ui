@@ -63,6 +63,7 @@ export class AppComponent implements OnInit {
 
   public arrowClicked() {
     this.pageStack.pop();
+    this.isMenuOpen = false;
     this.currentPage = this.pageStack.length ? this.pageStack[this.pageStack.length-1] : 'announcements';
     this.arrowClass = this.pageStack.length === 0 ? 'hidden' : '';
   }

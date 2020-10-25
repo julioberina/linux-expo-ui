@@ -40,10 +40,16 @@
 
         span {
             font-weight: bold;
-            text-align: right;
 
             p {
-                padding-right: 10px;
+                display: flex;
+                justify-content: flex-start;
+                align-items: center;
+                padding-left: 10px;
+
+                mat-icon {
+                    padding-right: 10px;
+                }
             }
 
             hr {
