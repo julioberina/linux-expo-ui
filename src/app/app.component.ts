@@ -56,6 +56,7 @@ export class AppComponent implements OnInit {
 
   public menuItemClicked(item: string) {
     this.currentPage = this.menuItems[item];
+    this.isMenuOpen = false;
     this.pageStack.push(this.currentPage);
     this.arrowClass = this.pageStack.length === 0 ? 'hidden' : '';
   }

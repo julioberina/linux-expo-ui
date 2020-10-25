@@ -3,15 +3,15 @@
       <mat-icon>menu</mat-icon>
     </button>
     <fa-icon [icon]="faArrowLeft" size="sm" (click)="arrowClicked()" [ngClass]="arrowClass"></fa-icon>
-    <span class="example-spacer"></span>
-    <span>SCaLE Conference</span>
+    <span (click)="outFocus()" class="example-spacer"></span>
+    <span (click)="outFocus()">SCaLE Conference</span>
 </mat-toolbar>
 
-<div class="package" (click)="outFocus()">
+<div class="package">
     <div [@openClose]="isMenuOpen ? 'open' : 'closed'" class="menu">
-        <span *ngFor="let item of menuItemKeys()">
-            <em>*</em>
+        <span *ngFor="let item of menuItemKeys(); first as isFirst; last as isLast">
             <p (click)="menuItemClicked(item)">{{ item }}</p>
+            <hr *ngIf="!isLast">
         </span>
     </div>
 
@@ -26,4 +26,6 @@
         <app-qr-code *ngIf="currentPage === 'qr-code'"></app-qr-code>
         <app-campus-map *ngIf="currentPage === 'campus-map'"></app-campus-map>
     </div>
+
+    <div class="dark" *ngIf="isMenuOpen" (click)="outFocus()"></div>
 </div>

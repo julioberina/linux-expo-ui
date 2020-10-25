@@ -33,24 +33,28 @@
     width: 100%;
 
     .menu {
-        background-color: #E9F2F9;
-        width: 60%;
-        text-align: right;
-        padding: 15px 10px;
-        z-index: 2;
+        background-color: #DCDCFF;
+        width: 50%;
+        z-index: 3;
         position: absolute;
-    
+
         span {
-            display: flex;
-            justify-content: space-between;
             font-weight: bold;
-    
-            em {
-                color: #EB6C4B;
-            }
-    
+            text-align: right;
+
             p {
-                color: #1D3261;
+                padding-right: 10px;
+            }
+
+            hr {
+                background-color: black;
+                height: 1px;
+            }
+        }
+
+        span:first-child {
+            p {
+                padding-top: 7px;
             }
         }
     }
@@ -59,5 +63,14 @@
         position: absolute;
         height: 100%;
         z-index: 1;
+    }
+
+    .dark {
+        position: absolute;
+        height: 100vh;
+        width: 100vw;
+        z-index: 2;
+        background-color: black;
+        opacity: 0.6;
     }
 }
