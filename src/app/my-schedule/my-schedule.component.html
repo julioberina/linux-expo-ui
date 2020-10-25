@@ -13,12 +13,16 @@
             <mat-card-title>{{ item.Title }}</mat-card-title>
             <mat-card-subtitle>{{ item.Day}}, {{ item.Time }}</mat-card-subtitle>
             <mat-card-content>{{ item['Short-abstract'] }}</mat-card-content>
-            <mat-card-footer>Topic: <strong>{{ item.Topic }}</strong></mat-card-footer>
-            <mat-card-actions>
-                <button mat-mini-fab color="warn" (click)="removeMyScheduleItem(item)">
-                    <mat-icon>remove</mat-icon>
-                </button>
-            </mat-card-actions>
+            <mat-card-footer>
+                <div>
+                    Topic: <strong>{{ item.Topic }}</strong>
+                </div>
+                <div>
+                    <button mat-mini-fab color="warn" (click)="removeMyScheduleItem(item)">
+                        <mat-icon>remove</mat-icon>
+                    </button>
+                </div>
+            </mat-card-footer>
         </mat-card>
     </div>
 </ng-container>

@@ -1,8 +1,13 @@
 mat-button-toggle-group {
     width: 100vw;
+    font-weight: bold;
 
     mat-button-toggle {
         width: 25vw;
+    }
+
+    .mat-button-toggle-checked {
+        background-color: #DCDCFF;
     }
 }
 
@@ -19,11 +24,11 @@ div.cards {
         border: 3px solid black;
 
         mat-card-footer {
+            display: flex;
+            justify-content: space-between;
             margin-left: 1px;
-        }
-
-        mat-card-actions {
-            text-align: right;
+            align-items: center;
+            padding-right: 1px;
         }
 
         .inms {
