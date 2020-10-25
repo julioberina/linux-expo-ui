@@ -10,15 +10,20 @@ div.cards {
     width: 90vw;
     padding-top: 10px;
     padding-bottom: 10px;
-    padding-left: 1.5vw;
+    padding-left: 0.8vw;
     
     mat-card {
         width: 90vw;
         border-radius: 20px;
         word-wrap: break-word;
+        border: 3px solid black;
 
         mat-card-footer {
             margin-left: 1px;
+        }
+
+        mat-card-actions {
+            text-align: right;
         }
     }
 }

@@ -17,8 +17,8 @@
             <button mat-mini-fab color="primary" *ngIf="!inMySchedule(item.Path)" (click)="addMyScheduleItem(item)">
                 <mat-icon>add</mat-icon>
             </button>
-            <button mat-mini-fab color="warn" *ngIf="inMySchedule(item.Path)" (click)="removeMyScheduleItem(item)">
-                <mat-icon>remove</mat-icon>
+            <button mat-mini-fab color="accent" *ngIf="inMySchedule(item.Path)">
+                <mat-icon>check</mat-icon>
             </button>
         </mat-card-actions>
     </mat-card>
