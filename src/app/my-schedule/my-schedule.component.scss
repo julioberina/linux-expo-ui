@@ -11,24 +11,32 @@ mat-button-toggle-group {
     }
 }
 
-div.cards {
-    width: 90vw;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 0.4vw;
-    
-    mat-card {
-        width: 90vw;
-        border-radius: 10px;
-        word-wrap: break-word;
-        border: 3px solid black;
+div.scrollable {
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    max-height: calc(100vh - 100px);
 
-        mat-card-footer {
-            display: flex;
-            justify-content: space-between;
-            margin-left: 1px;
-            align-items: center;
-            padding-right: 1px;
+    div.cards {
+        width: 90vw;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 0.4vw;
+        flex-grow: 1;
+        
+        mat-card {
+            width: 90vw;
+            border-radius: 10px;
+            word-wrap: break-word;
+            border: 3px solid black;
+    
+            mat-card-footer {
+                display: flex;
+                justify-content: space-between;
+                margin-left: 1px;
+                align-items: center;
+                padding-right: 1px;
+            }
         }
     }
 }

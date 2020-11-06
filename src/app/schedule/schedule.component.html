@@ -7,23 +7,25 @@
 
 <br />
 
-<div class="cards" *ngFor="let item of displayedSchedule">
-    <mat-card>
-        <mat-card-title>{{ item.Title }}</mat-card-title>
-        <mat-card-subtitle>{{ item.Day}}, {{ item.Time }}</mat-card-subtitle>
-        <mat-card-content>{{ item['Short-abstract'] }}</mat-card-content>
-        <mat-card-footer>
-            <div>
-                Topic: <strong>{{ item.Topic }}</strong>
-            </div>
-            <div>
-                <button mat-mini-fab color="primary" *ngIf="!inMySchedule(item.Path)" (click)="addMyScheduleItem(item)">
-                    <mat-icon>add</mat-icon>
-                </button>
-                <button class="inms" mat-mini-fab *ngIf="inMySchedule(item.Path)">
-                    <mat-icon>check</mat-icon>
-                </button>
-            </div>
-        </mat-card-footer>
-    </mat-card>
+<div class="scrollable">
+    <div class="cards" *ngFor="let item of displayedSchedule">
+        <mat-card>
+            <mat-card-title>{{ item.Title }}</mat-card-title>
+            <mat-card-subtitle>{{ item.Day}}, {{ item.Time }}</mat-card-subtitle>
+            <mat-card-content>{{ item['Short-abstract'] }}</mat-card-content>
+            <mat-card-footer>
+                <div>
+                    Topic: <strong>{{ item.Topic }}</strong>
+                </div>
+                <div>
+                    <button mat-mini-fab color="primary" *ngIf="!inMySchedule(item.Path)" (click)="addMyScheduleItem(item)">
+                        <mat-icon>add</mat-icon>
+                    </button>
+                    <button class="inms" mat-mini-fab *ngIf="inMySchedule(item.Path)">
+                        <mat-icon>check</mat-icon>
+                    </button>
+                </div>
+            </mat-card-footer>
+        </mat-card>
+    </div>
 </div>
