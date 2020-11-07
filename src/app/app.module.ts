@@ -22,6 +22,7 @@ import { MatIconModule } from '@angular/material/icon';
 import { MatSnackBarModule } from '@angular/material/snack-bar';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { ServiceWorkerModule } from '@angular/service-worker';
+import { ZXingScannerModule } from '@zxing/ngx-scanner';
 import { environment } from '../environments/environment';
 
 @NgModule({
@@ -48,6 +49,7 @@ import { environment } from '../environments/environment';
     MatIconModule,
     MatSnackBarModule,
     MatToolbarModule,
+    ZXingScannerModule,
     ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })
   ],
   providers: [AppService],

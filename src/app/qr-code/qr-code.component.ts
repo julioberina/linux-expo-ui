@@ -12,4 +12,7 @@ export class QrCodeComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  public scanSuccessHandler(event: any) {
+    console.log('scan success');
+  }
 }
