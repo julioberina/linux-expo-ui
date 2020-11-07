@@ -11,8 +11,12 @@
     <ng-container *ngFor="let item of displayedSchedule">
         <div class="cards" *ngIf="inMySchedule(item.Path)">
             <mat-card>
-                <mat-card-title>{{ item.Title }}</mat-card-title>
-                <mat-card-subtitle>{{ item.Day}}, {{ item.Time }}</mat-card-subtitle>
+                <mat-card-title (click)="goToExpoPage(item.Path)">
+                    {{ item.Title }}
+                </mat-card-title>
+                <mat-card-subtitle>
+                    <p>{{ item.Day}}, {{ item.Time }} in <strong>{{ item.Room }}</strong></p>
+                </mat-card-subtitle>
                 <mat-card-content>{{ item['Short-abstract'] }}</mat-card-content>
                 <mat-card-footer>
                     <div>

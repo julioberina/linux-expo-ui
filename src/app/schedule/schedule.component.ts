@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import { DOCUMENT } from '@angular/common';
+import { Component, Inject, OnInit } from '@angular/core';
 import { MatSnackBar } from '@angular/material/snack-bar';
 import { AppService } from '../app.service';
 
@@ -15,6 +16,7 @@ export class ScheduleComponent implements OnInit {
   private myScheduleItems = {};
 
   constructor(private appService: AppService,
+              @Inject(DOCUMENT) private document: Document,
               private snackBar: MatSnackBar) 
   { }
 
@@ -57,6 +59,10 @@ export class ScheduleComponent implements OnInit {
     localStorage.setItem('myScheduleItems', JSON.stringify(this.myScheduleItems));
     localStorage.setItem('mySchedule', JSON.stringify(this.mySchedule));
     this.snackBar.open('Removed event from My Schedule', 'Dismiss', { duration: 2000 });
+  }
+
+  public goToExpoPage(path: string) {
+    this.document.location.href = 'https://socallinuxexpo.org' + path;
   }
 
   private normalizeData() {

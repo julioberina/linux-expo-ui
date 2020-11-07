@@ -1,6 +1,6 @@
 {
-  "name": "linux-expo-ui",
-  "short_name": "linux-expo-ui",
+  "name": "Linux Expo",
+  "short_name": "Linux Expo",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",

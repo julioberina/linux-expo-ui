@@ -29,6 +29,12 @@ div.scrollable {
             border-radius: 10px;
             word-wrap: break-word;
             border: 3px solid black;
+
+            mat-card-subtitle {
+                strong {
+                    color: rgba(0,0,0,0.65);
+                }
+            }
     
             mat-card-footer {
                 display: flex;

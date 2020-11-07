@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import { DOCUMENT } from '@angular/common';
+import { Component, Inject, OnInit } from '@angular/core';
 import { MatSnackBar } from '@angular/material/snack-bar';
 import { AppService } from '../app.service';
 
@@ -14,6 +15,7 @@ export class MyScheduleComponent implements OnInit {
   public displayedSchedule = [];
 
   constructor(private appService: AppService,
+              @Inject(DOCUMENT) private document: Document,
               private snackBar: MatSnackBar) 
   { }
 
@@ -28,7 +30,7 @@ export class MyScheduleComponent implements OnInit {
       this.mySchedule.filter(item => item['Day'] === 'Thursday').sort((a, b) => {
         return (Number(a['Time'].split(' - ')[0].replace(':', '')) - 
         Number(b['Time'].split(' - ')[0].replace(':', '')))
-      }).forEach(item => { this.displayedSchedule.push(item) });
+      }).forEach(item => this.displayedSchedule.push(item));
 
       this.mySchedule.filter(item => item['Day'] === 'Friday').sort((a, b) => {
         return (Number(a['Time'].split(' - ')[0].replace(':', '')) - 
@@ -79,5 +81,9 @@ export class MyScheduleComponent implements OnInit {
     localStorage.setItem('myScheduleItems', JSON.stringify(this.myScheduleItems));
     localStorage.setItem('mySchedule', JSON.stringify(this.mySchedule));
     this.snackBar.open('Removed event from My Schedule', 'Dismiss', { duration: 2000 });
+  }
+
+  public goToExpoPage(path: string) {
+    this.document.location.href = 'https://socallinuxexpo.org' + path;
   }
 }
