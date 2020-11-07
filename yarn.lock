@@ -1479,6 +1479,15 @@
   optionalDependencies:
     "@zxing/text-encoding" "^0.9.0"
 
+"@zxing/library@^0.15.1":
+  version "0.15.2"
+  resolved "https://registry.yarnpkg.com/@zxing/library/-/library-0.15.2.tgz#3026071aca80a84af09706dffa1d386053e11efc"
+  integrity sha512-J+N88Eyg6eI2SKIk2YIkjjNICbMSqmLZnB3oD1S21Bi3k+Ddg2eKe/nW+Hce4NKAFAZtY1mdDM08Bj9eu87HSg==
+  dependencies:
+    ts-custom-error "^3.0.0"
+  optionalDependencies:
+    text-encoding "^0.7.0"
+
 "@zxing/library@^0.18.3":
   version "0.18.3"
   resolved "https://registry.yarnpkg.com/@zxing/library/-/library-0.18.3.tgz#50f20703cf3b7d357bd8801b23f27f24aa1f5e4d"
@@ -1488,12 +1497,13 @@
   optionalDependencies:
     "@zxing/text-encoding" "~0.9.0"
 
-"@zxing/ngx-scanner@^3.1.2":
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/@zxing/ngx-scanner/-/ngx-scanner-3.1.2.tgz#09ac332fc319ccef681dd5e8efd0560a5f2ef7c5"
-  integrity sha512-YxNn7OhypgDdAa9fkiF/nC8nsQho3x/lG/6uELF+VOkul3Py85zsz0WFqXAd2BpQTE7tNhvPhzuyDrxvY1xVbg==
+"@zxing/ngx-scanner@3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@zxing/ngx-scanner/-/ngx-scanner-3.0.0.tgz#fa510fb9afb42310809ed349abc84ba1dbb6809e"
+  integrity sha512-WK3VwklpGp2zBhZdBIUETO9igk5fOOvLUZpTjk2LDsqAxAhdNYbtOQVYJGSwSsF3evP8sKPxmyNlW3FF9vr7yQ==
   dependencies:
-    tslib "^2.0.0"
+    "@zxing/library" "^0.15.1"
+    tslib "^1.9.0"
 
 "@zxing/text-encoding@^0.9.0", "@zxing/text-encoding@~0.9.0":
   version "0.9.0"
@@ -8298,6 +8308,11 @@ terser@^5.0.0:
     commander "^2.20.0"
     source-map "~0.7.2"
     source-map-support "~0.5.19"
+
+text-encoding@^0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/text-encoding/-/text-encoding-0.7.0.tgz#f895e836e45990624086601798ea98e8f36ee643"
+  integrity sha512-oJQ3f1hrOnbRLOcwKz0Liq2IcrvDeZRHXhd9RgLrsT+DjWY/nty1Hi7v3dtkaEYbPYe0mUoOfzRrMwfXXwgPUA==
 
 through2@^2.0.0:
   version "2.0.5"

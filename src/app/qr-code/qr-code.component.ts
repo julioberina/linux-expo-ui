@@ -7,12 +7,18 @@ import { Component, OnInit } from '@angular/core';
 })
 export class QrCodeComponent implements OnInit {
 
+  public qrResultString = '';
+
   constructor() { }
 
   ngOnInit(): void {
   }
 
-  public scanSuccessHandler(event: any) {
-    console.log('scan success');
+  public clearResult(): void {
+    this.qrResultString = null;
+  }
+
+  public onCodeResult(resultString: string) {
+    this.qrResultString = resultString;
   }
 }

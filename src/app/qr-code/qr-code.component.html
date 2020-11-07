@@ -1,4 +1,13 @@
 <div class="scan-qr-code">
     <h1>Scan QR Code</h1>
 </div>
-<zxing-scanner></zxing-scanner>
+
+<zxing-scanner (scanSuccess)="onCodeResult($event)"></zxing-scanner>
+
+<section class="results" *ngIf="qrResultString">
+  <div>
+    <small>Result</small>
+    <strong>{{ qrResultString }}</strong>
+  </div>
+  <button mat-icon-button (click)="clearResult()">&times;</button>
+</section>
