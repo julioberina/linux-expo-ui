@@ -1,0 +1,33 @@
+div.contacts-header {
+    min-width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+
+div.form {
+    padding: 0 5vw;
+    width: 90vw;
+
+    mat-form-field {
+        width: 100%;
+    }
+
+    .green {
+        background-color: green;
+        color: white;
+        margin: 5px 0;
+    }
+
+    button:not(.green) {
+        margin-bottom: 5px;
+    }
+}
+
+div.contacts {
+    min-width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
