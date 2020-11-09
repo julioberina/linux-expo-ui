@@ -4,3 +4,23 @@ div.scan-qr-code {
     justify-content: space-around;
     padding-top: 10px;
 }
+
+div.camera {
+    display: flex;
+    width: 100vw;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+:host zxing-scanner::ng-deep video {
+    display: flex;
+    justify-content: space-around;
+    max-height: 40vh;
+    object-fit: contain;
+}
+
+:host zxing-scanner::ng-deep {
+    border-style: dashed;
+    border-color: black;
+    width: 40vw;
+}
