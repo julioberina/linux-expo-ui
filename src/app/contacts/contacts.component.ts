@@ -35,10 +35,6 @@ export class ContactsComponent implements OnInit {
   }
 
   public exportToCsv() {
-    const path = 'contacts';
-    const fileNum = localStorage.getItem('fileNum') || '';
-    const ext = '.csv';
-
     const options = {
       header: true
     };
@@ -46,8 +42,7 @@ export class ContactsComponent implements OnInit {
     const csv = this.papa.unparse(this.contacts, options);
     const csvData = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
 
-    FileSaver.saveAs(csvData, path + fileNum + ext);
-    localStorage.setItem('fileNum', ' (' + (Number(fileNum)+1).toString() + ')');
+    FileSaver.saveAs(csvData, 'contacts.csv');
     console.log('CSV generated');
   }
 }
