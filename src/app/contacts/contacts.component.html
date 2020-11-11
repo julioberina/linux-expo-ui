@@ -31,9 +31,9 @@
 <hr>
 
 <div class="form">
-    <button class="green" mat-raised-button>
-        <fa-icon [icon]="faFileExcel" size="lg"></fa-icon>
-        Export to Excel
+    <button class="green" mat-raised-button (click)="exportToCsv()">
+        <fa-icon [icon]="faFileCsv" size="lg"></fa-icon>
+        Export to CSV
     </button>
 </div>
 
