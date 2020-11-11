@@ -46,12 +46,6 @@ export class ContactsComponent implements OnInit {
     const csv = this.papa.unparse(this.contacts, options);
     const csvData = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
 
-    // fs.writeFile(path + fileNum + ext, this.papa.unparse(this.contacts, options), (err) => {
-    //   if (err) throw err;
-    //   console.log('CSV created!');
-    //   if (fileNum)  localStorage.setItem('fileNum', '(' + (Number(fileNum)+1).toString() + ')');
-    // });
-
     FileSaver.saveAs(csvData, path + fileNum + ext);
     localStorage.setItem('fileNum', ' (' + (Number(fileNum)+1).toString() + ')');
     console.log('CSV generated');
