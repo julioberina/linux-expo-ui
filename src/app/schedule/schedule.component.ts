@@ -14,6 +14,7 @@ export class ScheduleComponent implements OnInit {
 
   private mySchedule = [];
   private myScheduleItems = {};
+  private isClicked = {};
 
   constructor(private appService: AppService,
               @Inject(DOCUMENT) private document: Document,
@@ -62,6 +63,7 @@ export class ScheduleComponent implements OnInit {
   }
 
   public goToExpoPage(path: string) {
+    this.isClicked[path] = true;
     this.document.location.href = 'https://socallinuxexpo.org' + path;
   }
 

@@ -10,8 +10,11 @@
 <div class="scrollable">
     <div class="cards" *ngFor="let item of displayedSchedule">
         <mat-card>
-            <mat-card-title (click)="goToExpoPage(item.Path)">
+            <mat-card-title *ngIf="!isClicked[item.Path]" (click)="goToExpoPage(item.Path)">
                 {{ item.Title }}
+            </mat-card-title>
+            <mat-card-title *ngIf="isClicked[item.Path]">
+                <mat-spinner [diameter]="30"></mat-spinner>
             </mat-card-title>
             <mat-card-subtitle>
                 <p>{{ item.Day}}, {{ item.Time }} in <strong>{{ item.Room }}</strong></p>
