@@ -7,8 +7,8 @@
         <mat-card>
             <mat-card-header>
                 <mat-card-title>{{ exhibitor.title }}</mat-card-title>
-                <mat-card-subtitle *ngIf="exhibitor.sponsor-type !== ''">
-                    {{ exhibitor.sponsor-type }}
+                <mat-card-subtitle *ngIf="exhibitor['sponsor-type'] !== ''">
+                    {{ exhibitor['sponsor-type'] }}
                 </mat-card-subtitle>
             </mat-card-header>
             <img mat-card-image [src]="exhibitor['image-url']">
