@@ -11,7 +11,7 @@
     flex-direction: column;
     overflow-y: auto;
     overflow-x: hidden;
-    max-height: calc(100vh - 100px);
+    max-height: calc(100vh - 75px);
     padding-top: 10px;
     
     .exhibitor-card {
@@ -29,12 +29,15 @@
             box-shadow: 0 0 6px 6px #efefff;
         
             img {
-                min-width: 80vw;
-                max-width: 80vw;
+                min-width: 70vw;
+                max-width: 70vw;
                 max-height: 150px;
+                margin-left: 5vw;
             }
 
             mat-card-content {
+                word-wrap: break-word;
+
                 a {
                     text-decoration: none;
                     font-weight: bold;
