@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { AppService } from '../app.service';
 
 @Component({
   selector: 'app-exhibitors',
@@ -7,9 +8,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ExhibitorsComponent implements OnInit {
 
-  constructor() { }
+  public exhibitors;
+
+  constructor(private appService: AppService) 
+  { }
 
   ngOnInit(): void {
+    console.log('exhibitors: ' + this.exhibitors);
+    this.exhibitors = this.appService.getExhibitors().default;
   }
 
 }

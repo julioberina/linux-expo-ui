@@ -1,1 +1,21 @@
-<p>exhibitors works!</p>
+<!--<div class="exhibitors-header">
+    <h1>Exhibitors</h1>
+</div>-->
+
+<div class="container">
+    <div class="exhibitor-card" *ngFor="let exhibitor of exhibitors">
+        <mat-card>
+            <mat-card-header>
+                <mat-card-title>{{ exhibitor.title }}</mat-card-title>
+                <mat-card-subtitle *ngIf="exhibitor.sponsor-type !== ''">
+                    {{ exhibitor.sponsor-type }}
+                </mat-card-subtitle>
+            </mat-card-header>
+            <img mat-card-image [src]="exhibitor['image-url']">
+            <mat-card-content>
+                <p><a [href]="exhibitor['website-url']">{{ exhibitor.title }}</a></p>
+                <p>{{ exhibitor.body }}</p>
+            </mat-card-content>
+        </mat-card>
+    </div>
+</div>

@@ -1,0 +1,583 @@
+[
+    {
+       "title":"All Things Open",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/LOGO%202020%20red%20no%20OS.com_.png?itok=KK9Mo1CF",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"http://allthingsopen.org/",
+       "body":"All Things Open is the largest open source/tech/web event on the U.S. east coast, and one of the largest in the world.  In 2019 nearly 5,000 registered and attended (4,985 to be exact) from 41 U.S. states and 27 countries.  Five thousand plus (5,000+) are expected in 2020.  Diversity and inclusion are also priorities, and have been since the conference was first hosted in 2013."
+    },
+    {
+       "title":"AREDN",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/AREDN%20Final%20Logo_0_0.jpg?itok=bUVBp90Q",
+       "sponsor-type":"",
+       "website-url":"AREDN",
+       "body":"AREDN™  (Amateur Radio Emergency Data Network) organization develops open source solutions in the Amateur Radio Community for purposes of Emergency Communications using wireless high speed data technologies. The AREDN team builds upon linux, OLSR, and OpenWRT using commercial Wireless ISP devices and extending frequencies across a wide range of Amateur only microwave bands.  The result is a commercial grade off-the-grid viable alternative network suitable for restoring some degree of inter/intra‐net connectivity “when all else fails”."
+    },
+    {
+       "title":"Arista",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/arista.png?itok=zO9Tw3--",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"http://www.arista.com",
+       "body":"Arista Networks pioneered software-driven, cognitive cloud networking for large-scale datacenter and campus environments. Arista's award-winning platforms, ranging in Ethernet speeds from 10 to 400 gigabits per second, redefine scalability, agility and resilience. Arista has shipped more than 20 million cloud networking ports worldwide with CloudVision and EOS, an advanced network operating system. Committed to open standards, Arista is a founding member of the 25/50G consortium. Arista Networks products are available worldwide directly and through partners."
+    },
+    {
+       "title":"Arm",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/Arm_logo_blue_150MD.png?itok=o6jc2bga",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"http://www.arm.com",
+       "body":"Arm technology is at the heart of a computing and connectivity revolution that is transforming the way people live and businesses operate. Our advanced, energy-efficient processor designs have enabled intelligent computing in more than 125 billion chips. Over 70% of the world’s population are using Arm technology, which is securely powering products from the sensor to the smartphone to the supercomputer. This technology combined with our IoT software and device management platform enables customers to derive real business value from their connected devices."
+    },
+    {
+       "title":"BareOS",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/Logo_gesamt_0.jpg?itok=Ui8Mho1Q",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"http://www.bareos.com",
+       "body":"Bareos (Backup Archiving Recovery Open Sourced) is a reliable network open source software to backup, archive and restore files from all major operating systems. The fork was founded 2010 out of the bacula.org project, in order to pursue development of new capabilities and sustainable ensure it’s open source character.Today Bareos comes with a new multi-lingual and multi-tenancy web ui including restore browser, LTO hardware encryption support, bandwidth limitation, cloud storage support, a redesigned plugin interface, among other new features."
+    },
+    {
+       "title":"BastilleBSD",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/bastille-icon_0.png?itok=wJiomZQR",
+       "sponsor-type":"",
+       "website-url":"BastilleBSD",
+       "body":"Bastille is an open-source system for automating deployment and management of containerized applications on FreeBSD."
+    },
+    {
+       "title":"BeagleBoard",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/beagle_logo_326x60.png?itok=Kixepm8c",
+       "sponsor-type":"",
+       "website-url":"https://www.beagleboard.org",
+       "body":"The BeagleBoard.org Foundation is a Michigan,USA-based 501(c)(3) non-profit corporation existing to provide education in and collaboration around the design and use of open-source software and hardware in embedded computing. BeagleBoard.org provides a forum for the owners and developers of open-source software and hardware to exchange ideas, knowledge and experience."
+    },
+    {
+       "title":"Big Blue Button",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/bigbluebutton-logo.png?itok=tprzP6AX",
+       "sponsor-type":"",
+       "website-url":"http://www.bigbluebutton.org",
+       "body":"BigBlueButton is an open-source web conferencing system."
+    },
+    {
+       "title":"Bitergia",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/logo%20Bitergia.png?itok=mOFzRNzN",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"https://bitergia.com",
+       "body":"Bitergia helps companies to understand software development projects that matter to them, helping within decision making process and reporting regarding community health, project sustainability, development efficiency, talent retention & acquisition, content creation, developer audience analysis and much more. With +15 years of experience in research about collaborative software development methodologies and quality models, is the market reference in analyzing software development projects and developer community"
+    },
+    {
+       "title":"Ceph Foundation",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/Ceph_Logo_Standard_RGB_120411_fa.png?itok=7VksuftC",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"https://ceph.io/",
+       "body":"The Ceph Foundation exists to enable industry members to collaborate and pool resources to support the Ceph project community. The Foundation provides an open, collaborative, and neutral home for project stakeholders to coordinate their development and community investments in the Ceph ecosystem."
+    },
+    {
+       "title":"ChaosSearch",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/chaos.png?itok=jLtFMxDJ",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"http://www.CHAOSSEARCH.com",
+       "body":"CHAOSSEARCH delivers log analytics at cloud scale and low cost, unmatched in the marketplace. Our SaaS solution is based on revolutionary technology, enabling search and analytics directly on cloud object storage. CHAOSSEARCH customers routinely analyze data at massive scale - from terabytes to petabytes - with stunning performance."
+    },
+    {
+       "title":"Cloud Native Computing Foundation",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/cncf-color_0_0.png?itok=1Coq_s5d",
+       "sponsor-type":"Gold Sponsor",
+       "website-url":"http://www.cncf.io",
+       "body":"Cloud native computing uses an open source software stack to deploy applications as microservices, packaging each part into its own container, and dynamically orchestrating those containers to optimize resource utilization. The Cloud Native Computing Foundation (CNCF) hosts critical components of cloud native software stacks including Kubernetes, Fluentd, linkerd, Prometheus, OpenTracing, gRPC, CoreDNS, containerd, rkt, CNI, Envoy, Jaeger, Notary, and TUF."
+    },
+    {
+       "title":"Coastline College",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/cc-logo-primary.png?itok=PCT9pkX4",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"http://www.coastline.edu/",
+       "body":"Coastline College, a multi-campus community college, is located in Orange County, CA. Situated in the heart of Orange County, the Coastline campus is an educational and cultural hub for the region. It offers certificates and degrees in Cyber Security and a host of technical academies including Cisco, Microsoft, AWS, Red Hat, Palo Alto Networks, and CompTIA. Coastline College is also the home of the Western Regional Collegiate Cyber Defense Competition. This is the premiere Incident Response competition on the west coast."
+    },
+    {
+       "title":"Copper Linux User Group",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/1579801790437_300x300Copper%20-%20Marcia%20Kaoru%20Wilbur.png?itok=J4qj-z3F",
+       "sponsor-type":"",
+       "website-url":"",
+       "body":""
+    },
+    {
+       "title":"Darknet Industries",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/qzmzITA8_0_0.jpeg?itok=7yN9uoqu",
+       "sponsor-type":"",
+       "website-url":"Darknet Industries",
+       "body":"The DarkNet was inspired by a community concept of the same name presented in Daniel Suarez's seminal books, \"Daemon\" and \"Freedom.\" In it, an autonomous artificial intelligence implemented by the visionary Matthew A. Sobol and activated by news of his death comes to \"life\" and begins recruiting people to embark on a mission that will change humanity forever. Sobol foresaw a clash between those who would use technology to centralize power in an elite few and those who would use it to empower individuals to maintain their autonomy, power and rights in an increasingly complex world."
+    },
+    {
+       "title":"Data Con",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/DATA%20CON%20LA%20OFFICIAL%20Vertical.png?itok=sfkAtJcK",
+       "sponsor-type":"",
+       "website-url":"https://www.dataconla.com/",
+       "body":"Data Con LA is the largest data conference in Southern California. Spearheaded by Subash D’Souza and organized and supported by a community of volunteers, sponsors and speakers, Data Con LA features the most vibrant gathering of data and technology enthusiasts in Los Angeles. Data Con LA launched the Data4Good Initiative where we partner with various public and private organizations in order to bring meaningful conversations into what it means to share data in a consumable way."
+    },
+    {
+       "title":"Datadog",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/datadog_1_0_0_0_0.png?itok=ngKN4CD3",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"http://www.datadog.com",
+       "body":"Datadog is a monitoring and analytics platform for large-scale application infrastructure. Combining metrics from servers, databases, and applications, Datadog delivers sophisticated, actionable alerts, and provides real-time visibility of your entire infrastructure. Datadog includes 120+ vendor-supported, prebuilt integrations and monitors hundreds of thousands of hosts."
+    },
+    {
+       "title":"DataStax",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/DS-logo-2019_1.png?itok=PoQl6ugP",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"http://www.datastax.com",
+       "body":"Built on Apache Cassandra™ and designed from the ground up to run anywhere, on any cloud, in any datacenter, and in every possible combination. DataStax delivers the ultimate hybrid and multi-cloud database."
+    },
+    {
+       "title":"Elastic",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/elastic-logo-H-full%20color.jpg?itok=WVToI7yL",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"http://www.elastic.co",
+       "body":"Elastic is a search company. As the creators of the Elastic Stack (Elasticsearch, Kibana, Beats, and Logstash), Elastic builds self-managed and SaaS offerings that make data usable in real time and at scale for use cases like application search, site search, enterprise search, logging, APM, metrics, security, business analytics, and many more. Thousands of organizations worldwide, including Cisco, eBay, Goldman Sachs, Microsoft, The Mayo Clinic, NASA, The New York Times, Wikipedia, and Verizon, use Elastic to power mission-critical systems."
+    },
+    {
+       "title":"Electronic Frontier Foundation",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/EFF_2_0_0_0.png?itok=djI-euRS",
+       "sponsor-type":"",
+       "website-url":"EFF",
+       "body":"From the Internet to the iPod, technologies are transforming our society and empowering us as speakers, citizens, creators, and consumers. When our freedoms in the networked world come under attack, the Electronic Frontier Foundation (EFF) is the first line of defense."
+    },
+    {
+       "title":"Facebook",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/Facebook-06-2015-Blue_0_0_0.png?itok=-j1qvewJ",
+       "sponsor-type":"Gold Sponsor",
+       "website-url":"http://www.facebook.com",
+       "body":"Facebook is the world's larger social network with over 900 million active users. Founded in 2004, Facebook¹s mission is to make the world more open and connected. As an employer, Facebook strives to hire the best people who want to move fast and make an impact. The company empowers people in every way it can to allow our employees to focus on what they love to do. People around the world use Facebook everyday to stay connected with friends and family, to discover what¹s going on, and to share and express what matters to them."
+    },
+    {
+       "title":"Fedora",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/Fedora2_4_0_0_0.png?itok=t24THmyE",
+       "sponsor-type":"",
+       "website-url":"https://getfedora.org/",
+       "body":"Fedora is a Linux-based operating system that provides users with access to the latest free and open source software in a stable, secure and easy to manage form. We strongly believe in the bedrock principles that created all the components of our operating system, and because of this we guarantee that Fedora will always be free for anybody anywhere to use, modify and distribute."
+    },
+    {
+       "title":"Free Radicals",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/IMG_4570.jpeg?itok=myk_-o2J",
+       "sponsor-type":"",
+       "website-url":"",
+       "body":"Free Radicals is an activist collective dedicated to creating a more socially just, equitable, and accountable science. We create accessible resources for political education on the intersection of science and social justice and collaborate with local progressive organizing efforts on issues related to science and technology.To learn more, contact us at: freeradicalsblog@gmail.com"
+    },
+    {
+       "title":"Free Software Foundation",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/logo-fsf.org-tiny_2.png?itok=b9pImBIZ",
+       "sponsor-type":"",
+       "website-url":"https://www.fsf.org/",
+       "body":"The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to promote computer user freedom and to defend the rights of all free software users.\nThe Free Software Foundation supports the \"free as in freedom\" GNU/Linux OS."
+    },
+    {
+       "title":"FreeBSD Foundation",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/FREEBSDF_Logo_Pos_RGB_0_0.png?itok=7bu2LsKo",
+       "sponsor-type":"Media Sponsor",
+       "website-url":"https://www.freebsdfoundation.org/",
+       "body":"The FreeBSD Foundation is a 501(c)(3), US based, non-profit organization dedicated to supporting, promoting, and building the FreeBSD Project and community worldwide. The Foundation gratefully accepts donations from individuals and businesses, using them to fund and manage projects, sponsor FreeBSD events, Developer Summits and provide travel grants to FreeBSD developers. In addition, the Foundation represents the FreeBSD Project in executing contracts, license agreements, copyrights, trademarks, and other legal arrangements which require a recognized legal entity."
+    },
+    {
+       "title":"FreePN",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/Freefox%20Square.png?itok=KIfCtJ5a",
+       "sponsor-type":"",
+       "website-url":"FreePN",
+       "body":"FreePN is a free, anonymous, unlimited-bandwidth, open-source, peer-to-peer VPN. We aim to make online privacy as accessible as possible by making our VPN completely free and easy-to-use. We are a Linux-first open-source project and look to expand into other platforms (Windows and Mac) in the near future."
+    },
+    {
+       "title":"Gentoo",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/Gentoo_2_0_0.png?itok=uvIckvpC",
+       "sponsor-type":"",
+       "website-url":"http://www.gentoo.org/",
+       "body":"Gentoo Linux is a special flavor of Linux that can be automatically optimized and customized for just about any application or need. Extreme configurability, performance and top-notch user and developer communities are all hallmarks of the Gentoo experience. Thanks to a technology called Portage, Gentoo Linux can become an ideal secure server, development workstation, professional desktop, gaming system, embedded solution or something else."
+    },
+    {
+       "title":"GNOME",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/gnomelogo_1.png?itok=4zdu2rjt",
+       "sponsor-type":"",
+       "website-url":"https://www.gnome.org/",
+       "body":"The GNOME Project was started as a free (as in freedom) desktop environment and has grown into a hugely successful enterprise. Used by millions of people across the world, it is the most popular desktop environment for GNU/Linux and UNIX-type operating systems. The desktop has been utilized in successful, large-scale enterprise, and public deployments and the project’s developer technologies are utilized in a large number of popular mobile devices. The GNOME Project is supported by the GNOME Foundation, a member directed non-profit organization."
+    },
+    {
+       "title":"GumGum",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/GumGum_PrimaryLogo.jpeg?itok=WWH3UEMO",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"https://www.gumgum.com",
+       "body":"GumGum is an artificial intelligence company with a focus on computer vision. Our mission is to solve hard problems across a variety of industries by teaching machines to see and understand the world. Since 2008, the company has applied its patented capabilities to serve a variety of industries from advertising to professional sports, with more to come."
+    },
+    {
+       "title":"Instaclustr",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/Instaclustr-C-navy%2Bcyan.png?itok=jFjUIYPI",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"http://www.instaclustr.com",
+       "body":"Instaclustr is the open source-as-a-service company delivering reliability at scale through our integrated data platform for technologies such as Apache Cassandra, Apache Kafka, Apache Spark, and Elasticsearch. Our expertise stems from delivering more than over 60 million node hours under management. We provide a range of consulting, enablement and integration, and support services relating to open source technologies."
+    },
+    {
+       "title":"iXsystems",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/newix_logo_1.png?itok=z2kxuj44",
+       "sponsor-type":"Silver Sponsor, Network Sponsor",
+       "website-url":"https://www.iXsystems.com",
+       "body":"iXsystems is a pioneer in building innovative storage solutions and enterprise servers for a global marketplace based on open technology. With decades of expertise, many contributions to Open Source communities, and stewardship of leading Open Source projects, iXsystems has become the leader of innovative storage and server solutions for the global open technology market. Thousands have come to rely on iXsystems' approach to doing business."
+    },
+    {
+       "title":"KDE",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/KDE_1_0_0.png?itok=_gl4jXr6",
+       "sponsor-type":"",
+       "website-url":"KDE",
+       "body":"KDE, the KDE Software Compilation, is a contemporary desktop environment for UNIX, Linux and BSD workstations. KDE seeks to fulfill the need for an easy to use desktop for, similar to those found on Macintosh and Microsoft Windows operating systems"
+    },
+    {
+       "title":"Layer One",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/LayerOne_Logo_Full.png?itok=3ajshATY",
+       "sponsor-type":"",
+       "website-url":"LayerOne",
+       "body":"LayerOne is an annual technology and information security conference held in Pasadena, CA. Since 2004, we've brought together the best and brightest of the tech community in a friendly, hands-on environment focused on meeting new people and learning new things. LayerOne includes presentations, workshops, hands-on villages, contests, demos, parties, and much more. Don't miss it! LayerOne 2020 takes place on May 22-24 at the Pasadena Hilton Hotel."
+    },
+    {
+       "title":"LibreOffice",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/download.png?itok=NWVunzkm",
+       "sponsor-type":"",
+       "website-url":"LibreOffice",
+       "body":"LibreOffice is a Free Open Source suite of office applications, available for GNU/Linux, Mac OS X and Microsoft Windows. LibreOffice is developed and supported by The Document Foundation, an independent self-governing meritocracy focused on delivering the best possible document production software to a broad range of users."
+    },
+    {
+       "title":"Linbit",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/Logo_Linbit_Claim_2017-01_0_0.png?itok=gAXpW0OA",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"http://www.linbit.com",
+       "body":"LINBIT creates next generation resilient storage with Open Source products. As the leader in Linux High Availability and Disaster Recovery technologies for over 15 years, LINBIT's product, DRBD, is now the defacto replication standard for High-Availability Clusters. LINBIT provides development, support, and consulting to the entire Linux High Availability Cluster Stack."
+    },
+    {
+       "title":"Linode",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/linodeLogo-RGB-FC.png?itok=XvIZh7RT",
+       "sponsor-type":"Silver Sponsor, Reception Sponsor",
+       "website-url":"http://www.linode.com",
+       "body":"Linode accelerates innovation by making cloud computing simple, accessible, and affordable to all. Founded in 2003, Linode helped pioneer the cloud computing industry and is today the largest independent open cloud provider in the world. Headquartered in Philadelphia's Old City, the company empowers more than a million developers, startups, and businesses across its global network of 11 data centers."
+    },
+    {
+       "title":"Linux Chix",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/LinuxChix_2_0_0.jpg?itok=XQ4OQRJV",
+       "sponsor-type":"",
+       "website-url":"Linux Chix",
+       "body":"LinuxChix is many things to many people, but it primarily focuses on supporting women in computing, specifically in Open Source/Free Software/Software Libre computing.LinuxChix is a community that encourages participation by allowing the quieter voices a place to speak without being drowned out by a vocal minority by holding fast to the two core tenets within the LinuxChix community: \"be polite\" and \"be helpful.\"The international community of LinuxChix has been active for over nine years and the Los Angeles chapter of LinuxChixLA was established in 2002."
+    },
+    {
+       "title":"Linux Professional Institute",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/LPI_Logo-ColourLarge%20web_1_0_0.png?itok=7wzLDCNj",
+       "sponsor-type":"",
+       "website-url":"http://www.lpi.org",
+       "body":"Linux Professional Institute is the global certification standard and career support organization for open source professionals. With more than 600,000 exams delivered, it's the world’s first and largest vendor-neutral Linux and open source certification body. LPI has certified professionals in over 180 countries, delivers exams in 9 languages, and has hundreds of training partners."
+    },
+    {
+       "title":"Linux Professional Institute",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/LPI_Logo-ColourLarge%20web_1_0%20%281%29.png?itok=hx-LdoQJ",
+       "sponsor-type":"",
+       "website-url":"https://www.lpi.org/",
+       "body":"Linux Professional Institute is the global certification standard and career support organization for open source professionals. With more than 600,000 exams delivered, it's the world’s first and largest vendor-neutral Linux and open source certification body. LPI has certified professionals in over 180 countries, delivers exams in 9 languages, and has hundreds of training partners."
+    },
+    {
+       "title":"Logz.io",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/logo_vertical_color%20%281%29_0_0.png?itok=-U-FaxCd",
+       "sponsor-type":"Gold Sponsor",
+       "website-url":"http://www.logz.io",
+       "body":"Logz.io is an intelligent log analytics platform that combines the popular ELK stack as a cloud service and innovative machine learning. Logz.io derives insights from machine data, user behavior and community knowledge in a scalable, production-ready platform that enables organizations to resolve issues faster and take operations to the next level."
+    },
+    {
+       "title":"Lutris",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/logo.2104b09c2c3f.png?itok=VKu_ut1x",
+       "sponsor-type":"",
+       "website-url":"Lutris",
+       "body":"Lutris is an Open Source gaming platform for Linux. It installs and launches games so you can start playing without the hassle of setting up your games."
+    },
+    {
+       "title":"Microsoft",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/Microsoft-logo_rgb_c-gray-1_0_0_0.png?itok=j9qGatvO",
+       "sponsor-type":"Platinum Sponsor",
+       "website-url":"http://www.microsoft.com",
+       "body":"Microsoft’s commitment to openness and collaboration is ingrained in our day-to-day approach to doing business alongside industry partners around the world, including open source communities. On Azure, you have the choice of a wide range of Linux distributions, DevOps tools like Chef, Puppet and Kubernetes and integration with Docker containers. Developers can use their language of choice including Java, Node.js, PHP, Python and Ruby. Questions? We’d love to hear from you – send us mail at opensource@microsoft.com."
+    },
+    {
+       "title":"MySQL",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/logo-mysql-170x115_0.png?itok=qgihkhdy",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"",
+       "body":""
+    },
+    {
+       "title":"No Starch Press",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/nsp_logo_circle.png?itok=u8B6Ox2Z",
+       "sponsor-type":"",
+       "website-url":"https://nostarch.com/",
+       "body":"San Francisco–based No Starch Press has published the finest in geek entertainment since 1994, covering topics like hacking, open source/Linux, LEGO,​ science, math, and programming for all ages. Our titles have personality and attitude, our authors are passionate about their subjects, and we read and edit every book that bears our name. Our goal is to make computing accessible to technophile and novice alike, and our readers appreciate our straightforward presentation and fearless approach to the complex world of technology."
+    },
+    {
+       "title":"OpenLogic by Perforce",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/openlogic-by-perforce-logo%20kubecon.png?itok=Cdp8n74L",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"https://www.openlogic.com/",
+       "body":"OpenLogic by Perforce delivers comprehensive support and guidance for hundreds of free community open source projects, so you can confidently adopt them to boost agility, efficiency, and savings."
+    },
+    {
+       "title":"OpenSUSE",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/openSUSElogo_rgb%20green_1_0.png?itok=hoyucdbF",
+       "sponsor-type":"",
+       "website-url":"OpenSUSE",
+       "body":"The openSUSE project is a worldwide effort that promotes the use of Linux everywhere. openSUSE creates one of the world's best Linux distributions, working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community."
+    },
+    {
+       "title":"opsi",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/opsi.png?itok=rdtiD3kb",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"http://www.opsi.org/",
+       "body":"opsi is an open source client management system to manage heterogeneous environments. It enables the deployment and configuration from OS's and software on Windows and Linux computers. opsi is a powerful tool that will allow you to manage from a dozen clients, up to several thousands. Through the integrated inventory you get an overview of the hardware and software. This makes opsi the ideal tool for every system administrator. Opsi is deployed across all sectors in the fields of education, business and public administration."
+    },
+    {
+       "title":"Orchid",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/logo-v-primary.png?itok=4RwtQiyk",
+       "sponsor-type":"Silver Sponsor, Speaker Track Sponsor",
+       "website-url":"http://www.orchid.com",
+       "body":"Orchid takes a new approach to digital privacy with the first peer-to-peer, incentivized privacy network. On the network, anyone can buy and sell bandwidth using the Orchid token (OXT). Users can browse privately and access content without being limited by their geography. With its decentralized design, multi-hop architecture, and Open Source ethos, Orchid offers users unprecedented digital privacy in a trustless context."
+    },
+    {
+       "title":"PennyMac",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/PennyMac-Logo_2018_0.png?itok=DSaZ8q8M",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"https://www.pennymacusa.com",
+       "body":"PennyMac (NMLS #35953) is a top national mortgage lender, PennyMac is committed to providing its customers with a range of innovative solutions to help them purchase, refinance or simply remain in their homes. Whether they’re new to the home loan process or experienced buyers specifically seeking a competitive jumbo, FHA or VA loan, PennyMac is dedicated to offering competitive rates and superior service."
+    },
+    {
+       "title":"Percona",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/Percona_Logo_Color.png?itok=EeLej2Mv",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"http://www.percona.com",
+       "body":"Percona builds open source database strategies and software to help you make sense of your database, on-premise or in the cloud, with unbiased solutions for MySQL, MariaDB, MongoDB, PostgreSQL and more. We help companies manage, deploy, and optimize databases to meet the ever-expanding needs of their customers."
+    },
+    {
+       "title":"Perl Mongers",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/PerlMongers_0_0.png?itok=fWOlx5RX",
+       "sponsor-type":"",
+       "website-url":"Perl Mongers",
+       "body":"Perl Mongers is a loosely based association of Perl User Groups all over the world. The Southern California Perl Mongers, from the cities of Los Angeles, Orange County, San Diego, and Thousand Oaks each do their part in spreading the use of Perl through regular technical and social meetings."
+    },
+    {
+       "title":"PlanetScale",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/Planetscale-logo-square-01_0.png?itok=zN_EQpCN",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"http://www.planetscale.com",
+       "body":"PlanetScale was founded in early 2018 to provide a massively scalable multi-cloud transactional database-as-a-service built on Vitess and Kubernetes. We also provide enterprise support, feature development and professional services to teams that want to scale with Vitess, a mature technology trusted by companies like YouTube, JD.com, Slack and many more. PlanetScale is backed by a16z and SignalFire and is based in Mountain View, CA."
+    },
+    {
+       "title":"PostgreSQL",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/postgresql_5_0_0_0_0.png?itok=lia6wKpH",
+       "sponsor-type":"Speaker Track Sponsor",
+       "website-url":"http://www.postgresql.org/",
+       "body":"PostgreSQL is a powerful, open source object-relational database system. It has more than 20 years of active development and a proven architecture that has earned it a strong reputation for reliability, data integrity, and correctness. Its SQL implementation strongly conforms to the ANSI-SQL:2008 standard. It also has a host of extensions and advanced features. Best of all, PostgreSQL's source code is available under a liberal open source license: the PostgreSQL License."
+    },
+    {
+       "title":"Red Hat",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/Logo-redhat-color-375.png?itok=8tk1ShGl",
+       "sponsor-type":"Gold Sponsor",
+       "website-url":"http://www.redhat.com",
+       "body":"Red Hat is the world’s leading provider of enterprise open source software solutions, using a community-powered approach to deliver reliable and high-performing Linux, hybrid cloud, container, and Kubernetes technologies. Red Hat helps customers integrate new and existing IT applications, develop cloud-native applications, standardize on our industry-leading operating system, and automate, secure, and manage complex environments."
+    },
+    {
+       "title":"SaltStack",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/SaltStack_logo_blk__2k.png?itok=NNfqpwzh",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"https://www.saltstack.com",
+       "body":"SaltStack® intelligent IT automation software is used to help the largest businesses in the world manage and secure their digital infrastructure. Known for its powerful event-driven infrastructure automation engine, SaltStack is designed to control, optimize, and secure the inherent complexity of Web-scale infrastructure while providing efficient, collaborative solutions for ITOps, SecOps, NetOps, and DevOps teams. SaltStack maintains the award-winning Salt open source project which continues to be one of the largest, most-active open source projects in the world."
+    },
+    {
+       "title":"San Gabriel Valley Tech People",
+       "image-url":null,
+       "sponsor-type":"",
+       "website-url":"San Gabriel Valley Tech People",
+       "body":"San Gabriel Valley Tech People (SGVTech) is an umbrella group encompassing the multifaceted interests of the members of the San Gabriel Valley Linux User's Group (SGVLUG)"
+    },
+    {
+       "title":"ShellCon",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/shellconlogobasicblacktrans600_0_0.png?itok=lfagQ3Qc",
+       "sponsor-type":"",
+       "website-url":"https://www.shellcon.org",
+       "body":"ShellCon is an information security/hacker conference that breaks the mold by providing an open atmosphere of communication, collaboration, and a direct connection between speakers and the audience. But the ShellCon team also provides more:  we aim to be a bridge between people just starting out in Information Security and the talented leaders in the industry. We expanded our focus to include training events throughout the year so that we can continue to connect with individuals who want to develop beginning through advanced skills in red and blue team roles."
+    },
+    {
+       "title":"ShiftLeft",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/SL_vertical_rgb.png?itok=S0zrnNBj",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"http://www.shiftleft.io",
+       "body":"ShiftLeft is a continuous application security platform, purpose-built for the modern software development life cycle. It combines next-generation static code analysis (to quickly and accurately identify vulnerabilities) with application instrumentation (to protect the application) in an automated workflow. This combination of runtime-informed code analysis and code- informed runtime protection delivers the most accurate, automated, and comprehensive application security solution."
+    },
+    {
+       "title":"SoftIron",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/SOFI-inline-CMYK_0.png?itok=sWyun8qT",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"http://www.softiron.com",
+       "body":"SoftIron creates the world’s best appliances for scale-out data center solutions; delivering superior, task-specific hardware - designed, developed and assembled in California. HyperDrive is our custom-designed storage appliance, purpose-built to optimize the performance of Ceph, while HyperDrive Manager is a powerful and intuitive system designed to radically simplify the management of Ceph. Learn more at www.softiron.com"
+    },
+    {
+       "title":"Software Freedom Conservancy",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/Software_Freedom_Conservancy_logo.svg_.png?itok=D2-osfA_",
+       "sponsor-type":"",
+       "website-url":"Software Freedom Conservancy",
+       "body":"Software Freedom Conservancy. Software Freedom Conservancy is a not-for-profit charity that helps promote, improve, develop, and defend Free, Libre, and Open Source Software(FLOSS) projects. Conservancy provides a non-profit home and infrastructure for FLOSS projects."
+    },
+    {
+       "title":"Splunk",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/LOGO-Splunk-K.png?itok=LMcpAyY3",
+       "sponsor-type":"Gold Sponsor, Reception Sponsor",
+       "website-url":"http://www.splunk.com",
+       "body":"Splunk Inc. (NASDAQ: SPLK) turns data into doing with the Data-to-Everything Platform. Splunk technology is designed to investigate, monitor, analyze and act on data at any scale. Our powerful platform and unique approach to data have empowered companies to improve service levels, reduce operations costs, mitigate risk, enhance DevOps collaboration and create new product and service offerings."
+    },
+    {
+       "title":"Square",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/SQR_LOCKUP_ALL_BLK_2015.png?itok=blq3JILx",
+       "sponsor-type":"Gold Sponsor",
+       "website-url":"https://squareup.com/us/en",
+       "body":"Square has APIs and SDKs to make taking payments easy. Whether you're building a mobile app in iOS, Android, Flutter, or React-Native, or you want to quickly embed a checkout experience into a website. Rely on our payment platform that has processed billions of transactions."
+    },
+    {
+       "title":"SWIFT",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/swiftlogo%20%281%29_0.png?itok=ONPj1LAw",
+       "sponsor-type":"",
+       "website-url":"https://www.calpolyswift.org/",
+       "body":"SWIFT stands for Students With An Interest in the Future of Technology and is a student group at Cal Poly Pomona dedicated to providing awareness, training, and support for people interested in System Administration and Cyber Security. For over 20 years we have been providing students with resources and events that inspire their knowledge well beyond curriculum. We aim to foster the next generation of students who can be capable of dealing with the dynamic landscape of information technology and cyber security."
+    },
+    {
+       "title":"System76",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/system76_logo_0_0_0_0.png?itok=8Bxc7zO5",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"http://www.system76.com",
+       "body":"System76 produces premium Linux computers using the latest hardware. Their computers, along with the Pop! operating system, are developed to empower science, technology, and engineering professionals to unleash their potential."
+    },
+    {
+       "title":"TAOS",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/Taos_Logo%20SCALE.png?itok=_3zFIJLG",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"https://www.taos.com/",
+       "body":"At Taos, we believe in solving our clients’ unique and complex technical challenges by providing tailored services and solutions, built on best practices, that meet their needs. Our expertise and guidance helps CxOs and engineers plan, build, run, and automate no matter the platform or stage in the technology lifecycle."
+    },
+    {
+       "title":"The Aerospace Corporation",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/aerospace.jpeg?itok=hZqUdBcJ",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"https://aerospace.org/careers",
+       "body":""
+    },
+    {
+       "title":"The Walt Disney Company",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/disney_0.png?itok=BOtV3xNE",
+       "sponsor-type":"Gold Sponsor",
+       "website-url":"https://jobs.disneycareers.com/technology",
+       "body":"When cutting-edge technology meets Disney creativity, there are no limits to what can be developed. Every business within Disney is being transformed by technology as we work to accelerate disruption, solve challenges still to be imagined, and build what has never been built before. With the resources to amaze and the freedom to dream, technologists at Disney make the impossible, possible."
+    },
+    {
+       "title":"ThinkPenguin",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/logo1_0.jpg?itok=1ZRGPCgo",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"http://www.thinkpenguin.com",
+       "body":"Started by Christopher Waid, founder and CEO, ThinkPenguin.com, has a mission. To bring choice to the masses. We believe GNU/Linux is the easiest desktop operating system in history. What it has lacked is quality end-user support.We offer a number of unique free software products and services to ease transitioning as well as the end-user support to back it up. We produce a software component which actively assists users in locating compatible services, software, and support."
+    },
+    {
+       "title":"Tigera",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/TIGERA-Logo-%28Vertical%29.png?itok=bzCIuqMl",
+       "sponsor-type":"Gold Sponsor",
+       "website-url":"http://www.tigera.io",
+       "body":" "
+    },
+    {
+       "title":"TinyGo",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/tinygo-logo.png?itok=BPrNBBrw",
+       "sponsor-type":"",
+       "website-url":"TinyGo",
+       "body":"TinyGo is a project to bring the Go programming language to microcontrollers and modern web browsers by creating a new compiler based on LLVM."
+    },
+    {
+       "title":"ToroHack",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/toro.hack%20logo.jpg?itok=9TjizUOF",
+       "sponsor-type":"",
+       "website-url":"ToroHack",
+       "body":"Toro.Hack is a group of likeminded students at CSU, Dominguez Hills from various student organizations that has coalesced around cyber security. We seek to increase awareness and accessibility to an ever growing field via bringing the industry back to the local communities we serve. To learn more, visit us at torohack.net.  "
+    },
+    {
+       "title":"TrackIt",
+       "image-url":null,
+       "sponsor-type":"",
+       "website-url":"",
+       "body":"Track your AWS usage and costs."
+    },
+    {
+       "title":"Trend Micro",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/TM_logo_red_2c_1200x404.png?itok=sd7ImK3E",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"http://www.trendmicro.com",
+       "body":"Trend Micro Incorporated, a global leader in cybersecurity solutions, helps to make the world safe for exchanging digital information.  Our innovative solutions for consumers, businesses, and governments provide layered security for data centers, cloud environments, networks, and endpoints. All our products work together to seamlessly share threat intelligence and provide a connected threat defense with centralized visibility and investigation, enabling better, faster protection."
+    },
+    {
+       "title":"Turris",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/Turris_pozitiv_RGB.jpg?itok=WnRWCdzm",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"https://www.turris.cz/",
+       "body":""
+    },
+    {
+       "title":"Ubuntu",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/UbuntuLogo2_0_1_0.png?itok=mPVBO64k",
+       "sponsor-type":"",
+       "website-url":"Ubuntu",
+       "body":"Ubuntu is a free operating system based on Debian, a popular Linux distribution. Its name comes from the Zulu word \"ubuntu\", loosely translated as \"humanity\", describing the ubuntu philosophy: \"I am who I am because of those around me,\" a positive aspect of community."
+    },
+    {
+       "title":"UCLA Law",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/Bxd_Blk_Law_B.png?itok=VJq1bAZk",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"http://law.ucla.edu",
+       "body":"The Master of Legal Studies (M.L.S.) degree is for professional advancement through the study of law. The M.L.S. program is designed for professionals from disciplines outside of the law who wish to advance their careers and capabilities by obtaining an advanced degree and a deep understanding of the legal and regulatory issues that impact their industry or field of interest. It is ideal for non-lawyer professionals in any field – from the private, nonprofit or government sectors – who need to understand and navigate law, regulation, disputes or work with attorneys."
+    },
+    {
+       "title":"Uncoded",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/uncoded-org--logo_0_0.png?itok=lO6o6leN",
+       "sponsor-type":"",
+       "website-url":"Uncoded",
+       "body":"Founded in June 2015, Uncoded is a volunteer non-profit organization with the aim to inspire, bring together, and ignite local tech community. We do that by identifying synergies that exist in the local tech scene, holding events, and facilitating ongoing tech initiatives."
+    },
+    {
+       "title":"USENIX",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/usenix_logo_full_stacked_tm_0_0.png?itok=PSsuwgC8",
+       "sponsor-type":"Media Sponsor",
+       "website-url":"http://www.usenix.org",
+       "body":"The USENIX Association has brought together engineers, system administrators, scientists, and technicians working on the cutting edge of the computing world since 1975. Our conferences are the essential meeting grounds for discussion of the most advanced research in all aspects of computing systems, and USENIX membership supports professionals and students alike in developing technical skills. We are committed to promoting open access to technical knowledge, while fostering diversity and the next generation of researchers."
+    },
+    {
+       "title":"VideoLAN",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/VideoLAN_1_0_0.png?itok=oyvTXx2e",
+       "sponsor-type":"",
+       "website-url":"VideoLAN",
+       "body":"VideoLAN is a project that develops software for playing video and other media formats across a local area network (LAN). It originally developed two programs for media streaming, VideoLAN Client (VLC) and VideoLAN Server (VLS), but most of the features of VLS have been incorporated into VLC, with the result renamed VLC media player.The project began as a student endeavor at École Centrale Paris (France), but after releasing the software under the free software/open source GNU General Public License, the project is now multinational with a development team spanning 20 nations."
+    },
+    {
+       "title":"VMware",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/VMW_09Q3_LOGO_Corp_K_0.png?itok=WcDJY6je",
+       "sponsor-type":"Gold Sponsor, Reception Sponsor",
+       "website-url":"",
+       "body":"VMware software powers the world’s complex digital infrastructure. The company’s compute, cloud, mobility, networking and security offerings provide a dynamic and efficient digital foundation to over 500,000 customers globally, aided by an ecosystem of 75,000 partners. Headquartered in Palo Alto, California, VMware celebrates twenty years of breakthrough innovation benefiting business and society. For more information please visit https://www.vmware.com/company.html."
+    },
+    {
+       "title":"Wavefront",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/wavefront__by_VMware_primary.png?itok=384qRcn9",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"http://www.wavefront.com",
+       "body":"Wavefront is metrics monitoring-as-a-service for cloud application environments. It gathers telemetry across the entire stack into a unified metrics store with the industry’s most advanced query analytics, rendering visualizations for anomaly detection, trend analysis, and intelligent alerting. Used by DevOps teams at SaaS leaders, it scales to thousands of users. Our customers include companies like Box, Workday, Intuit, Groupon, Lyft, DoorDash, and Postmates."
+    },
+    {
+       "title":"Western Regional Collegiate Cyber Defense Competition",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/wrccdc3.jpg?itok=TrfO6lf0",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"https://www.wrccdc.org/",
+       "body":"The mission of the Western Regional Collegiate Cyber Defense Competition (WRCCDC) system is to provide a controlled, competitive environment for institutions with an information assurance or computer security curriculum to assess their student's depth of understanding and operational competency in managing the challenges inherent in protecting a corporate network infrastructure and business information systems."
+    },
+    {
+       "title":"Zabbix",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/medium/public/logos/zabbix_logo_500x131_1.png?itok=dABwq-i-",
+       "sponsor-type":"Silver Sponsor",
+       "website-url":"http://www.zabbix.com",
+       "body":"Zabbix is an enterprise-class open source distributed monitoring solution designed to monitor availability and performance of IT infrastructure components. Zabbix is used by a vast number of companies, who have chosen it due to real scalability, high and robust performance, ease of use and extremely low costs of ownership. Apart from that we offer a wide range of professional services designed to fit every customer's unique business demands including implementation, integration, custom development and consulting services as well as various training programs."
+    }
+ ]
