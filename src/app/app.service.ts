@@ -3,6 +3,7 @@ import { HttpClient } from '@angular/common/http';
 import { Observable, of } from 'rxjs';
 import * as scheduleJson from '../../data/schedule.json';
 import * as exhibitorsJson from '../../data/exhibitors.json';
+import * as speakersJson from '../../data/speakers.json';
 
 @Injectable({
   providedIn: 'root'
@@ -18,5 +19,9 @@ export class AppService {
 
   public getExhibitors(): any {
     return exhibitorsJson;
+  }
+
+  public getSpeakers(): any {
+    return speakersJson;
   }
 }

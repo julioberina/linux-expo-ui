@@ -1,1 +1,17 @@
-<p>speakers works!</p>
+<div class="container">
+    <div class="speaker-card" *ngFor="let speaker of speakers">
+        <mat-card>
+            <mat-card-header>
+                <div mat-card-avatar [ngStyle]="genBgImg(speaker['image-url'])"></div>
+                <mat-card-title><a [href]="speaker['speaker-url']">{{ speaker['name'] }}</a></mat-card-title>
+                <mat-card-subtitle>
+                    {{ speaker['job-title'] }}
+                </mat-card-subtitle>
+            </mat-card-header>
+            <mat-card-content>
+                <p><strong>Job Title: </strong>{{ speaker['job-title'] }}</p>
+                <p><strong>Organization: </strong>{{ speaker['organization'] }}</p>
+            </mat-card-content>
+        </mat-card>
+    </div>
+</div>

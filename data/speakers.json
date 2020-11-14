@@ -1,0 +1,1066 @@
+[
+    {
+       "name":"Mohammed Aboullaite",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/mohammed-aboullaite",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/8gZi8z3c_400x400%202.jpg?itok=e1YFHrKf",
+       "job-title":"Head of engineering",
+       "organization":"xHUB"
+    },
+    {
+       "name":"ANSON ABRAHAM",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/anson-abraham",
+       "image-url":null,
+       "job-title":"Principal Data Architect/Cloud Architect",
+       "organization":""
+    },
+    {
+       "name":"Alex Acosta",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/alex-acosta",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/acosta.png?itok=4MvCLGTl",
+       "job-title":"Contributor",
+       "organization":"Fedora Project"
+    },
+    {
+       "name":"Rami Al-Ghanmi",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/rami-al-ghanmi",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/IMG_4338.JPG?itok=F9EP4pl2",
+       "job-title":"Senior Software Development Engineer",
+       "organization":"Workday"
+    },
+    {
+       "name":"Roller Angel",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/roller-angel",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Roller-Headshot-2019.png?itok=khYVk2IK",
+       "job-title":"Helpdesk Technician / GLOBE Community Support",
+       "organization":"UCAR (University Corporation for Atmospheric Research) / The GLOBE Program"
+    },
+    {
+       "name":"Kenny Armstrong",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/kenny-armstrong",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/DSC01402.jpg?itok=XFM90CRl",
+       "job-title":"Trainer Advisor",
+       "organization":"Linux Professional Institute"
+    },
+    {
+       "name":"Maik Außendorf",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/maik-au%C3%9Fendorf",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/maik_oct_2018.jpg?itok=fjpa5a95",
+       "job-title":"Managing Director",
+       "organization":"Bareos GmbH & Co. KG"
+    },
+    {
+       "name":"Joe Ayers",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/joe-ayers",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/aredn_mug_shot.jpg?itok=mIRqXJIX",
+       "job-title":"Developer",
+       "organization":"AREDN Inc."
+    },
+    {
+       "name":"Jono Bacon",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/jono-bacon",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/jonobacon-small_0_0.jpg?itok=vcO0fv2O",
+       "job-title":"Founder",
+       "organization":"Jono Bacon Consulting"
+    },
+    {
+       "name":"Lori Barfield",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/lori-barfield",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Barfield_0.jpg?itok=_FD-g1JR",
+       "job-title":"Chair",
+       "organization":"SCaLE"
+    },
+    {
+       "name":"Josh Berkus",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/josh-berkus%09",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/headshot_new_small_0.jpg?itok=jLy5U8Ty",
+       "job-title":"Kubernetes Community",
+       "organization":"Red Hat Inc."
+    },
+    {
+       "name":"Silona Bonewald",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/silona-bonewald",
+       "image-url":null,
+       "job-title":"Executive Director",
+       "organization":"IEEE"
+    },
+    {
+       "name":"Michelle Brenner",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/michelle-brenner",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Headshot_Smaller.jpg?itok=R78hCJ3y",
+       "job-title":"Senior Backend Engineer",
+       "organization":"ChowNow"
+    },
+    {
+       "name":"Brandon Bruce",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/brandon-bruce",
+       "image-url":null,
+       "job-title":"Director of Customer Support",
+       "organization":"Linux Academy"
+    },
+    {
+       "name":"Karen Bruner",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/karen-bruner",
+       "image-url":null,
+       "job-title":"Technical Evangelist",
+       "organization":"StackRox"
+    },
+    {
+       "name":"Chet Burgess",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/chet-burgess",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/C-4_Portrait_head.png?itok=j_-j1_Kl",
+       "job-title":"Principal Engineer",
+       "organization":"Cisco"
+    },
+    {
+       "name":"Doug Burks",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/doug-burks",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Doug-Burks.jpg?itok=b4Bd8wBx",
+       "job-title":"CEO",
+       "organization":"Security Onion Solutions, LLC"
+    },
+    {
+       "name":"Lucy Burns",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/lucy-burns",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/headshot_4.png?itok=XL_4emwf",
+       "job-title":"Product Manager",
+       "organization":"PlanetScale, Inc"
+    },
+    {
+       "name":"Clint Byrum",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/clint-byrum",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/MeSquareRotated.jpg?itok=WR9qBeYo",
+       "job-title":"Sr. Dir of Infrastructure",
+       "organization":"Good Money"
+    },
+    {
+       "name":"Vagrant Cascadian",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/vagrant-cascadian",
+       "image-url":null,
+       "job-title":"Free Software Developer",
+       "organization":"Aikidev, LLC"
+    },
+    {
+       "name":"Diego Castillo",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/diego-castillo",
+       "image-url":null,
+       "job-title":"",
+       "organization":""
+    },
+    {
+       "name":"Davide Cavalca",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/davide-cavalca",
+       "image-url":null,
+       "job-title":"Production Engineer",
+       "organization":"Facebook"
+    },
+    {
+       "name":"Nathan Chan",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/nathan-chan",
+       "image-url":null,
+       "job-title":"Sales Engineer",
+       "organization":""
+    },
+    {
+       "name":"Solomon Chang",
+       "speaker-url":"https://socallinuxexpo.org/scale/15x/speakers/solomon-chang",
+       "image-url":null,
+       "job-title":"Sr. DBA",
+       "organization":"Tivo"
+    },
+    {
+       "name":"Ivan Chavero",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/ivan-chavero",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/imcsk8_fb_cuadro.png?itok=k5n5_B-R",
+       "job-title":"Senior Software Engineer",
+       "organization":"Red Hat"
+    },
+    {
+       "name":"Murugappan Chetty",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/murugappan-chetty",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/62OErFAB.jpg?itok=Q3dpxU3x",
+       "job-title":"Principal Engineer",
+       "organization":"Optum"
+    },
+    {
+       "name":"Joe Conway",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/joe-conway",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/jconway.jpg?itok=HCE7yMEp",
+       "job-title":"VP, PostgreSQL Engineering",
+       "organization":"Crunchy Data Solutions"
+    },
+    {
+       "name":"Matthias Crauwels",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/matthias-crauwels",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/11357147_10153265154758686_39859391293096838_o.jpg?itok=ghKTx7lg",
+       "job-title":"Lead Database Consultant",
+       "organization":"Pythian"
+    },
+    {
+       "name":"Jon Cruz",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/jon-cruz",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/j_cruz.jpg?itok=oZaGNzOH",
+       "job-title":"Chief Agitator",
+       "organization":"Inkscape"
+    },
+    {
+       "name":"Peter Czanik",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/peter-czanik",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Peter%20Czanik%20800.jpg?itok=3uSYNYzI",
+       "job-title":"open source evangelist",
+       "organization":"One Identity"
+    },
+    {
+       "name":"Pat David",
+       "speaker-url":"https://socallinuxexpo.org/scale/16x/speakers/pat-david",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Me-Crop-square-third-500px.jpg?itok=Svms8_18",
+       "job-title":"Nerd",
+       "organization":"GIMP"
+    },
+    {
+       "name":"Kyle Davis",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/kyle-davis",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/headshot_5.jpg?itok=NdQVQfm5",
+       "job-title":"Head of Developer Advocacy",
+       "organization":"Redis Labs"
+    },
+    {
+       "name":"Matt Davis",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/matt-davis",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/matt_shore-1000_sq.jpg?itok=o631sRSg",
+       "job-title":"Ops Wizard",
+       "organization":"Verica"
+    },
+    {
+       "name":"Zeke Dean",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/zeke-dean",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Zeke%20Dean.jpg?itok=gplUpnPr",
+       "job-title":"Senior Consultant",
+       "organization":"Instaclustr"
+    },
+    {
+       "name":"Isaiah Domenden",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/isaiah-domenden",
+       "image-url":null,
+       "job-title":"",
+       "organization":""
+    },
+    {
+       "name":"Darren Douglas",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/darren-douglas",
+       "image-url":null,
+       "job-title":"Chief Instructor",
+       "organization":"PostgresCourse.com"
+    },
+    {
+       "name":"Simon Elmir",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/simon-elmir",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/DSC01961-edit2.png?itok=UsFWPdVf",
+       "job-title":"Production Engineer",
+       "organization":"Facebook"
+    },
+    {
+       "name":"Galen Emery",
+       "speaker-url":"https://socallinuxexpo.org/scale/15x/speakers/galen-emery",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Galen%20Emery%202.jpg?itok=iOo0Bmng",
+       "job-title":"Federal Solutions Architect",
+       "organization":"CHEF"
+    },
+    {
+       "name":"John Engelke",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/john-engelke",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/test-head.jpg?itok=3aalPgKm",
+       "job-title":"Senior Data Systems Software Dev Specialist",
+       "organization":"Jet Propulsion Laboratory,  California Institute of Technology"
+    },
+    {
+       "name":"Ron Evans",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/ron-evans",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Ron%20Evans19-07-182520.jpg?itok=3zzKQaaR",
+       "job-title":"Technologist For Hire",
+       "organization":"The Hybrid Group"
+    },
+    {
+       "name":"Peter Farr",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/peter-farr",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Peter.jpg?itok=OObgwGYw",
+       "job-title":"Software Engineer",
+       "organization":"PlanetScale"
+    },
+    {
+       "name":"Nicolas Fränkel",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/nicolas-fr%C3%A4nkel",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/id_6_square.jpg?itok=3zzzD6tn",
+       "job-title":"",
+       "organization":"Hazelcast"
+    },
+    {
+       "name":"Stephen Frost",
+       "speaker-url":"https://socallinuxexpo.org/scale/15x/speakers/stephen-frost",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/me_7.jpg?itok=w74HNIwt",
+       "job-title":"Chief Technology Officer",
+       "organization":"Crunchy Data"
+    },
+    {
+       "name":"Tess Gadwa",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/tess-gadwa",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/12065998_10153584633925973_8158996885474453907_n.jpg?itok=iUGky5i5",
+       "job-title":"Product Architect",
+       "organization":"Lotus.fm"
+    },
+    {
+       "name":"Morgan Gangwere",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/morgan-gangwere",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/stippled_selfie_2.png?itok=6wpOt-JI",
+       "job-title":"",
+       "organization":""
+    },
+    {
+       "name":"Matthew Garrett",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/matthew-garrett",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/matthew_garret.jpg?itok=CqQmcBNj",
+       "job-title":"",
+       "organization":""
+    },
+    {
+       "name":"Joshua Gay",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/joshua-gay",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/2.jpg?itok=EqEJSeVV",
+       "job-title":"Open Source Community Manager",
+       "organization":"IEEE"
+    },
+    {
+       "name":"Deb Goodkin",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/deb-goodkin",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Deb%20Head%20Shot.jpg?itok=8WHWhgzj",
+       "job-title":"Executive Director",
+       "organization":"FreeBSD Foundation"
+    },
+    {
+       "name":"Brett Gravois",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/brett-gravois",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/xR47A0gM_400x400.jpg?itok=UX1Ig-Oo",
+       "job-title":"Tester of Pens",
+       "organization":"Self"
+    },
+    {
+       "name":"Morgan Greenwald",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/morgan-greenwald",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/BDD8F313-A3E3-4606-B628-0F12CD6C89A0.jpeg?itok=MiyFUlZu",
+       "job-title":"Student",
+       "organization":"Palisades Charter High School"
+    },
+    {
+       "name":"Waldo Grunenwald",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/waldo-grunenwald",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Waldo-NerdNiteOrlando-square.jpg?itok=tdSlvaKL",
+       "job-title":"Tech Evangelist",
+       "organization":"Datadog"
+    },
+    {
+       "name":"Julie Gunderson",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/julie-gunderson",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/07bceb3.jpg?itok=qGIo6mOW",
+       "job-title":"DevOps Advocate",
+       "organization":"PagerDuty"
+    },
+    {
+       "name":"Magnus Hagander",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/magnus-hagander",
+       "image-url":null,
+       "job-title":"",
+       "organization":"Redpill Linpro"
+    },
+    {
+       "name":"der hans",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/der-hans",
+       "image-url":null,
+       "job-title":"Customer Data Engineer",
+       "organization":"Object Rocket"
+    },
+    {
+       "name":"Thomas Hatch",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/thomas-hatch",
+       "image-url":null,
+       "job-title":"CTO",
+       "organization":"Salt Stack, Inc."
+    },
+    {
+       "name":"Jason Hibbets",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/jason-hibbets",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/jhibbets_profile.jpg?itok=GipzNm_5",
+       "job-title":"Opensource.com community architect",
+       "organization":"Red Hat"
+    },
+    {
+       "name":"Michal Hrusecky",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/michal-hrusecky",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/ja.jpg?itok=ZmidqbDh",
+       "job-title":"Project Leader",
+       "organization":"Turris"
+    },
+    {
+       "name":"Elizabeth K. Joseph",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/elizabeth-k-joseph",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/ekrumbach_056_533x533.png?itok=j4rsyzHT",
+       "job-title":"Developer Advocate",
+       "organization":"IBM"
+    },
+    {
+       "name":"Skyler Josinger",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/skyler-josinger",
+       "image-url":null,
+       "job-title":"Student",
+       "organization":"Palisades Charter High School"
+    },
+    {
+       "name":"Samuel Karp",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/samuel-karp",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/737750.jpeg?itok=cy5uuhaB",
+       "job-title":"Senior Software Development Engineer",
+       "organization":"Amazon Web Services"
+    },
+    {
+       "name":"Svetlana Karslioglu",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/svetlana-karslioglu",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/photo_1.jpg?itok=G9_PauPc",
+       "job-title":"Senior Technical Writer/Developer Advocate",
+       "organization":"Pachyderm, Inc"
+    },
+    {
+       "name":"Jonathan Katz",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/jonathan-katz",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/headshot17.jpg?itok=98HB3jNd",
+       "job-title":"Director of Cloud Engineering & Growth",
+       "organization":"Crunchy Data"
+    },
+    {
+       "name":"Abe Kazemzadeh",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/abe-kazemzadeh",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Screen%20Shot%202020-02-24%20at%205.06.19%20PM.png?itok=aukXSvS1",
+       "job-title":"Assistant Professor",
+       "organization":"University of St. Thomas"
+    },
+    {
+       "name":"Bob Killen",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/bob-killen",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Bob%20Killen.jpeg?itok=OMnV5r07",
+       "job-title":"Research Cloud Administrator",
+       "organization":"University of Michigan"
+    },
+    {
+       "name":"Bryna Kirzner",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/bryna-kirzner",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/bryna.jpg?itok=NqaGSR30",
+       "job-title":"Leader, Project Management",
+       "organization":"Nordstromrack.com | HauteLook"
+    },
+    {
+       "name":"Dima Kogan",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/dima-kogan",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/dima1.jpg?itok=7M6eN-q9",
+       "job-title":"Roboticist",
+       "organization":"NASA/Jet Propulsion Laboratory"
+    },
+    {
+       "name":"Ilya Kosmodemiansky",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/ilya-kosmodemiansky",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/11403075_951607761568949_545767559073951285_n.jpg?itok=zoc7wj0J",
+       "job-title":"CEO and consultant",
+       "organization":"Data Egret"
+    },
+    {
+       "name":"Alexander Krizhanovsky",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/alexander-krizhanovsky",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/avatar18.jpg?itok=6dXgWJcn",
+       "job-title":"CEO",
+       "organization":"Tempesta Technologies Inc"
+    },
+    {
+       "name":"Bradley Kuhn",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/bradley-kuhn",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/bkuhn-photo-2017.jpg?itok=1EY7bvkD",
+       "job-title":"Policy Fellow and Hacker-in-Residence",
+       "organization":"Software Freedom Conservancy"
+    },
+    {
+       "name":"Anthony Langer",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/anthony-langer",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/20200218_163923.jpg?itok=YWCCs3Pd",
+       "job-title":"Student ",
+       "organization":"Palisades Charter High School "
+    },
+    {
+       "name":"Stuart Langridge",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/stuart-langridge",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/IMG_5900_square_527x527.jpg?itok=XTNfZaEs",
+       "job-title":"",
+       "organization":""
+    },
+    {
+       "name":"Dustin Laurence",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/dustin-laurence",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/img_2686.jpg?itok=hUK9Su-v",
+       "job-title":"Software Engineer",
+       "organization":""
+    },
+    {
+       "name":"Tom Lechner",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/tom-lechner",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/tom-by-patrick-david-1000x1000.jpg?itok=0kRBYE5l",
+       "job-title":"Artist",
+       "organization":""
+    },
+    {
+       "name":"Alvaro Leiva",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/alvaro-leiva",
+       "image-url":null,
+       "job-title":"",
+       "organization":"Instagram"
+    },
+    {
+       "name":"Julien Levesy",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/julien-levesy",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/JL.png?itok=RnQ_TNHf",
+       "job-title":"Software Engineer",
+       "organization":"Containous"
+    },
+    {
+       "name":"Ben Lewis",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/ben-lewis",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/casual_avatar_min_smaller.png?itok=3BaNr2CY",
+       "job-title":"",
+       "organization":""
+    },
+    {
+       "name":"Georg Link",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/georg-link",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Georg-Link_square.png?itok=Ts8-jmlY",
+       "job-title":"Director of Sales",
+       "organization":"Bitergia"
+    },
+    {
+       "name":"Mark Lochbihler",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/mark-lochbihler",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/image001%20%283%29.png?itok=2LGaiEQz",
+       "job-title":"Director, Technical Alliances",
+       "organization":"MemSQL"
+    },
+    {
+       "name":"Manrique Lopez",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/manrique-lopez",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/jsmanrique-profile-256x.jpg?itok=2Cpt_58w",
+       "job-title":"CEO",
+       "organization":"Bitergia"
+    },
+    {
+       "name":"Federico Lucifredi",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/federico-lucifredi",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/F2%20Hedcut%20by%20Kevin%20Sprouls%20.jpg?itok=C13e9FyN",
+       "job-title":"Product Management Director",
+       "organization":"Red Hat"
+    },
+    {
+       "name":"Jake Lundberg",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/jake-lundberg",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Jake_Headshot.jpg?itok=uFmO4054",
+       "job-title":"Senior Solutions Engineer",
+       "organization":"HashiCorp"
+    },
+    {
+       "name":"Brian MacDonald",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/brian-macdonald",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/bmacdonald300x300.jpg?itok=yeWAByOt",
+       "job-title":"Acquisitions Editor",
+       "organization":"Pragmatic Bookshelf"
+    },
+    {
+       "name":"Ell Marquez",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/ell-marquez",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Headshot2jpg.jpg?itok=62KoPnjR",
+       "job-title":"Technical Evangelist ",
+       "organization":"Ell Marquez"
+    },
+    {
+       "name":"Sean Marquez",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/sean-marquez",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/AAIA_wDGAAAAAQAAAAAAAAzgAAAAJDg3MTY2YTMwLTA5YmEtNDQzZi1hMTIxLTNjODdlOGNkMzJhYw.jpg?itok=p3FfosM9",
+       "job-title":"",
+       "organization":"Space Cooperative Inc."
+    },
+    {
+       "name":"Don Marti",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/don-marti",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/dmarti-2.jpg?itok=ECg3BQlq",
+       "job-title":"Principal",
+       "organization":"Aloodo Project"
+    },
+    {
+       "name":"Michael Marx",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/michael-marx",
+       "image-url":null,
+       "job-title":"MySQL Principal Solutions Engineer ",
+       "organization":"MySQL"
+    },
+    {
+       "name":"Dave McAllister",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/dave-mcallister",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/dmcallister-101-1400w-pp.png?itok=YHhcUPmS",
+       "job-title":"Community and Dev Guy",
+       "organization":"Scalyr"
+    },
+    {
+       "name":"Jessica McKellar",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/jessica-mckellar",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/jessica-mckellar.jpg?itok=2gmzVaOd",
+       "job-title":"CTO",
+       "organization":"Pilot.com"
+    },
+    {
+       "name":"Oscar Medina",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/oscar-medina",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/avatar%20%281%29.jpg?itok=Con-mtbv",
+       "job-title":"Developer Advocate | Jenkins X",
+       "organization":"Cloudbees"
+    },
+    {
+       "name":"Carlos Meza",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/carlos-meza",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/3764de7.jpg?itok=oZrouzna",
+       "job-title":"superuser",
+       "organization":"digitalr00ts"
+    },
+    {
+       "name":"Todd Miller",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/todd-miller",
+       "image-url":null,
+       "job-title":"",
+       "organization":""
+    },
+    {
+       "name":"Joe Needleman",
+       "speaker-url":"https://socallinuxexpo.org/scale/15x/speakers/joe-needleman",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/247a124-2.jpg?itok=kBpor0TZ",
+       "job-title":"",
+       "organization":""
+    },
+    {
+       "name":"Ikenna Ogbogu",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/ikenna-ogbogu",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Scale-Photo.jpg?itok=AqgVI4zM",
+       "job-title":"Student",
+       "organization":"Polytechnic School"
+    },
+    {
+       "name":"Heather Osborn",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/heather-osborn",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Heather_Osborn_0.png?itok=aulUusCT",
+       "job-title":"Sr. Dir. Systems Engineering",
+       "organization":"Ticketmaster"
+    },
+    {
+       "name":"Ray Paik",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/ray-paik",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Headshot%202.png?itok=ziq9eK6L",
+       "job-title":"Community Manager",
+       "organization":"Gitlab"
+    },
+    {
+       "name":"Jared Pane",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/jared-pane",
+       "image-url":null,
+       "job-title":"Sr. Solutions Architect",
+       "organization":"Elastic"
+    },
+    {
+       "name":"Murriel Perez-McCabe",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/murriel-perez-mccabe",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/murriel.jpg?itok=ZwMa6Uet",
+       "job-title":"DevOps Engineer",
+       "organization":""
+    },
+    {
+       "name":"Renee Phillips",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/renee-phillips",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/headshot%20128x128.jpg?itok=O5_DE-VI",
+       "job-title":"Data Analyst",
+       "organization":""
+    },
+    {
+       "name":"Paris Pittman",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/paris-pittman",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/paris.jpg?itok=8_kN-5qg",
+       "job-title":"",
+       "organization":"Google"
+    },
+    {
+       "name":"Pep Pla",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/pep-pla",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/_1010010_600x600.jpg?itok=FXc9uhVd",
+       "job-title":"DBA",
+       "organization":"Pythian"
+    },
+    {
+       "name":"Shea Polansky",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/shea-polansky",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Fox%20Statue%20Headshot.jpg?itok=jyOomNTE",
+       "job-title":"Security Analyst",
+       "organization":"Independent Security Evaluators"
+    },
+    {
+       "name":"Bill Pollock",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/bill-pollock",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/bill.jpg?itok=jrfD_093",
+       "job-title":"",
+       "organization":"No Starch Press"
+    },
+    {
+       "name":"Francis Potter",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/francis-potter",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/francis-2017-a-640-square.jpg?itok=7dwxL5Ne",
+       "job-title":"Solution Architect",
+       "organization":"GitLab"
+    },
+    {
+       "name":"Charles Pretzer",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/charles-pretzer",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/jkynoatpz0mnr0orbtod_large.jpg?itok=Yzj4bLcS",
+       "job-title":"Field Engineer",
+       "organization":"Buoyant, Inc."
+    },
+    {
+       "name":"Mathias Radtke",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/mathias-radtke",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Radtke_Mathias_7276_16_s.jpg?itok=tyhJXPQq",
+       "job-title":"Software Developer",
+       "organization":""
+    },
+    {
+       "name":"Kyle Rankin",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/kyle-rankin",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/headshot2.jpg?itok=Hmsud0Af",
+       "job-title":"Chief Security Officer",
+       "organization":"Purism"
+    },
+    {
+       "name":"Naomi Reeves",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/naomi-reeves",
+       "image-url":null,
+       "job-title":"Production Engineer",
+       "organization":"Facebook"
+    },
+    {
+       "name":"Rob Richardson",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/rob-richardson",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Rob%20Richardson.jpg?itok=0ka4z4kF",
+       "job-title":"Technical Evangelist",
+       "organization":"MemSQL"
+    },
+    {
+       "name":"Perry Rivera",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/perry-rivera",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/PERRY.jpg?itok=ddtFNsu9",
+       "job-title":"",
+       "organization":""
+    },
+    {
+       "name":"Mark Roden",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/mark-roden",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Mark%20Roden%281%29.jpg?itok=HuhNtcUI",
+       "job-title":"Acccomplished Data Scientist",
+       "organization":"Ticketmaster"
+    },
+    {
+       "name":"Gabrielle Roth",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/gabrielle-roth",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/2015-09-18_Postgres_0164-cropped.png?itok=AupZMIJf",
+       "job-title":"Sr Data Engineer",
+       "organization":"NS1"
+    },
+    {
+       "name":"Tyler Rowland",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/tyler-rowland",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/72EC4942-B40B-4063-AB90-57EB98A34905.jpeg?itok=XsvEdPUm",
+       "job-title":"Student",
+       "organization":"Pali Charter HS"
+    },
+    {
+       "name":"Alexander Rubin",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/alexander-rubin",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/alexander_rubin.png?itok=zHj-dX6m",
+       "job-title":"Director of Data Architecture",
+       "organization":"VirtualHealth"
+    },
+    {
+       "name":"Karen Rucker",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/karen-rucker",
+       "image-url":null,
+       "job-title":"",
+       "organization":""
+    },
+    {
+       "name":"Andreas Scherbaum",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/andreas-scherbaum",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/IMG_20130502_182006_changed.jpg?itok=AAh9uVYh",
+       "job-title":"",
+       "organization":""
+    },
+    {
+       "name":"Jennifer Scheuerell",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/jennifer-scheuerell",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Screen%20Shot%202018-10-31%20at%202.23.56%20PM.png?itok=WX0A8y6M",
+       "job-title":"Senior Data Systems Consultant",
+       "organization":"Sound Data"
+    },
+    {
+       "name":"Mica Semrick",
+       "speaker-url":"https://socallinuxexpo.org/scale/16x/speakers/mica-semrick",
+       "image-url":null,
+       "job-title":"",
+       "organization":""
+    },
+    {
+       "name":"Vicky Tanya Seno",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/vicky-tanya-seno",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/WIN_20180622_03_25_20_Pro.jpg?itok=840CT0KE",
+       "job-title":"Computer Science Professor / Youtube Vlogger SysAdmGirl",
+       "organization":"Santa Monica College"
+    },
+    {
+       "name":"Suchakra Sharma",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/suchakra-sharma",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/shiftleft.jpeg?itok=lRBty-Nd",
+       "job-title":"Staff Scientist",
+       "organization":"ShiftLeft"
+    },
+    {
+       "name":"Mason Sharp",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/mason-sharp",
+       "image-url":null,
+       "job-title":"",
+       "organization":"Immuta"
+    },
+    {
+       "name":"Brett Sheffield",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/brett-sheffield",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/cafethink.jpg?itok=sn_3lFCf",
+       "job-title":"",
+       "organization":"Librecast Project"
+    },
+    {
+       "name":"Ty Shipman",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/ty-shipman",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/unnamed.png?itok=zk1uwslf",
+       "job-title":"Sr, Security Consultant",
+       "organization":"ComplaincePoint"
+    },
+    {
+       "name":"Jeffrey Sica",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/jeffrey-sica",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/jeefy%20k8s%20profile%20closeup.png?itok=hDTP0tiC",
+       "job-title":"Senior Software Engineer",
+       "organization":"Red Hat"
+    },
+    {
+       "name":"John Sicklick",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/john-sicklick",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/john.sicklick.jpg?itok=EsneWRu7",
+       "job-title":"Adjunct Faculty",
+       "organization":"Long Beach City College"
+    },
+    {
+       "name":"Michael Starch",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/michael-starch",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/portrait.jpg?itok=FkDTtao7",
+       "job-title":"Flight Software Engineer",
+       "organization":"Jet Propulsion Laboratory, California Institute of Technology"
+    },
+    {
+       "name":"Sha Stepter",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/sha-stepter",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Screenshot_20200212-023641.png?itok=SkHcHltP",
+       "job-title":"Founder",
+       "organization":"Slow And Steady Media"
+    },
+    {
+       "name":"Dave Stokes",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/dave-stokes",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/davestokes.jpg?itok=ksa3Qk7K",
+       "job-title":"MySQL Community Manager",
+       "organization":"Oracle"
+    },
+    {
+       "name":"Spencer Sullivan",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/spencer-sullivan",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/zoocroped.jpg?itok=YWUvIBDg",
+       "job-title":"Intern",
+       "organization":"Jet Propulsion Laboratory "
+    },
+    {
+       "name":"Patrick Swartz",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/patrick-swartz",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/PSwartz_profile_pic.jpg?itok=megABzDa",
+       "job-title":"Solution Engineer",
+       "organization":"SUSE"
+    },
+    {
+       "name":"RaiseMe Team",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/raiseme-team",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/raiseme%20twitter%20logo.png?itok=mrY3NkCI",
+       "job-title":"Career Development Volunteers",
+       "organization":"ShellCon RaiseMe"
+    },
+    {
+       "name":"Robert Treat",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/robert-treat",
+       "image-url":null,
+       "job-title":"@robtreat2",
+       "organization":"https://xzilla.net"
+    },
+    {
+       "name":"Cho-Nan Tsai",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/cho-nan-tsai",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/chonantsai-profile.jpg?itok=2kwFW42Y",
+       "job-title":"Chief Technology Office",
+       "organization":"Camino Financial"
+    },
+    {
+       "name":"Aleksey Tsalolikhin",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/aleksey-tsalolikhin",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/aleksey_tsalolikhin_headshot.jpg?itok=dWT3bPlt",
+       "job-title":"DevOps Enthusiast",
+       "organization":"Vertical Sysadmin, Inc."
+    },
+    {
+       "name":"Aaron Turner",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/aaron-turner",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/Avatar.png?itok=kQvjrXZq",
+       "job-title":"Developer Relations",
+       "organization":"Fastly"
+    },
+    {
+       "name":"Abhi Vaidyanatha",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/abhi-vaidyanatha",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/unnamed_0.jpg?itok=4a-LqzYh",
+       "job-title":"Software Engineer",
+       "organization":"PlanetScale"
+    },
+    {
+       "name":"Liz van Dijk",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/liz-van-dijk",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/team-member-liz.jpg?itok=drZAsF0b",
+       "job-title":"Solution Architect",
+       "organization":"PlanetScale"
+    },
+    {
+       "name":"Chris VanTuin",
+       "speaker-url":"https://socallinuxexpo.org/scale/16x/speakers/chris-vantuin",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/cvt-headshot-redhat.jpg?itok=GgXzRFfG",
+       "job-title":"Chief Technologist, West",
+       "organization":"Red Hat"
+    },
+    {
+       "name":"Emmanuel Vargas",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/emmanuel-vargas",
+       "image-url":null,
+       "job-title":"Student",
+       "organization":""
+    },
+    {
+       "name":"Paul Vixie",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/paul-vixie",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/PVixie%20-%20Headshot.jpg?itok=hqEW1P23",
+       "job-title":"Chairman, CEO, Cofounder",
+       "organization":"Farsight Security, Inc."
+    },
+    {
+       "name":"Karsten Wade",
+       "speaker-url":"https://socallinuxexpo.org/scale/16x/speakers/karsten-wade",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/headshot-Karsten-Wade-the-Venetian.jpg?itok=mfVxMfo7",
+       "job-title":"Sr. Community Architect",
+       "organization":"Red Hat"
+    },
+    {
+       "name":"Mark Waite",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/mark-waite",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/MarkEWaite-2019_0.jpg?itok=a54djVIG",
+       "job-title":"Technical Evangelist",
+       "organization":"CloudBees, Inc."
+    },
+    {
+       "name":"Richard Wareing",
+       "speaker-url":"https://socallinuxexpo.org/scale/15x/speakers/richard-wareing",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/moi.jpg?itok=vP_YaJAa",
+       "job-title":"Production Engineer",
+       "organization":"Facebook Inc."
+    },
+    {
+       "name":"Mike Weilgart",
+       "speaker-url":"https://socallinuxexpo.org/scale/17x/speakers/mike-weilgart",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/IMG_1061%203.jpg?itok=3qD3UbTn",
+       "job-title":"",
+       "organization":"Vertical Sysadmin, Inc."
+    },
+    {
+       "name":"Nathan Willis",
+       "speaker-url":"https://socallinuxexpo.org/scale/16x/speakers/nathan-willis",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/nwillis-li.jpg?itok=QEyaPatj",
+       "job-title":"Typography consultant",
+       "organization":""
+    },
+    {
+       "name":"Mei Yasumaru",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/mei-yasumaru",
+       "image-url":null,
+       "job-title":"",
+       "organization":""
+    },
+    {
+       "name":"Kivanc Yazan",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/kivanc-yazan",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/0_2.jpeg?itok=vm2NZ6kW",
+       "job-title":"Software Engineer",
+       "organization":"ZipRecruiter"
+    },
+    {
+       "name":"Richard Yen",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/richard-yen",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/d2583945d34a001495d01fcd2266c86f.jpg?itok=wEUmp2NF",
+       "job-title":"Principal Support Engineer",
+       "organization":"EnterpriseDB"
+    },
+    {
+       "name":"Steven Yu",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/steven-yu",
+       "image-url":null,
+       "job-title":"Solutions Architect",
+       "organization":"Databricks"
+    },
+    {
+       "name":"Peter Zaitsev",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/peter-zaitsev",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/pz-768x1024.jpg?itok=hu2mSzsl",
+       "job-title":"CEO",
+       "organization":"Percona "
+    },
+    {
+       "name":"Todd Zebert",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/todd-zebert",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/291003_133876506707396_106141959480851_200560_3244917_o.jpg?itok=4tPZQ9Cs",
+       "job-title":"Lead Developer",
+       "organization":"Miles"
+    },
+    {
+       "name":"Alexander Ziff",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/alexander-ziff",
+       "image-url":"https://www.socallinuxexpo.org/sites/default/files/styles/square_thumbnail/public/speakers/IMG_0091.jpg?itok=DZ89DzMc",
+       "job-title":"Student",
+       "organization":""
+    },
+    {
+       "name":"Miguel Zuniga",
+       "speaker-url":"https://socallinuxexpo.org/scale/18x/speakers/miguel-zuniga",
+       "image-url":null,
+       "job-title":"Sr Software Development Engineer",
+       "organization":"Workday"
+    }
+ ]

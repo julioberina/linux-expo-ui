@@ -14,7 +14,6 @@ export class ExhibitorsComponent implements OnInit {
   { }
 
   ngOnInit(): void {
-    console.log('exhibitors: ' + this.exhibitors);
     this.exhibitors = this.appService.getExhibitors().default;
   }
 
