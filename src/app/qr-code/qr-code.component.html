@@ -2,9 +2,7 @@
     <h1>Scan QR Code</h1>
 </div>
 
-<div class="camera">
-  <zxing-scanner (scanSuccess)="onCodeResult($event)"></zxing-scanner>
-</div>
+<zxing-scanner (scanSuccess)="onCodeResult($event)"></zxing-scanner>
 
 <section class="results" *ngIf="qrResultString">
   <div>
