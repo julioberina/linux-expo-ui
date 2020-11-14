@@ -16,7 +16,7 @@ div.scrollable {
     flex-direction: column;
     overflow-y: auto;
     overflow-x: hidden;
-    max-height: calc(100vh - 100px);
+    max-height: calc(100vh - 120px);
     padding-top: 10px;
 
     .schedule-card {

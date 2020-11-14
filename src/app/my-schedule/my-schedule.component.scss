@@ -1,5 +1,5 @@
 mat-button-toggle-group {
-    width: 100vw;
+    width: 99.5vw;
 
     mat-button-toggle {
         width: 25vw;
@@ -15,33 +15,33 @@ div.scrollable {
     display: flex;
     flex-direction: column;
     overflow-y: auto;
-    max-height: calc(100vh - 100px);
+    overflow-x: hidden;
+    max-height: calc(100vh - 120px);
+    padding-top: 10px;
 
-    div.cards {
-        width: 90vw;
-        padding-top: 10px;
-        padding-bottom: 10px;
-        padding-left: 0.4vw;
-        flex-grow: 1;
-        
+    .schedule-card {
+        min-width: 100vw;
+        max-width: 100vw;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        padding-bottom: 30px;
+
         mat-card {
-            width: 90vw;
+            min-width: 80vw;
+            max-width: 80vw;
             border-radius: 10px;
-            word-wrap: break-word;
-            border: 3px solid black;
+            box-shadow: 0 0 6px 6px #efefff;
 
-            mat-card-subtitle {
-                strong {
-                    color: rgba(0,0,0,0.65);
-                }
+            mat-card-content {
+                word-wrap: break-word;
+                text-align: justify;
+                padding: 0 4vw;
             }
-    
-            mat-card-footer {
+
+            mat-card-actions {
                 display: flex;
-                justify-content: space-between;
-                margin-left: 1px;
-                align-items: center;
-                padding-right: 1px;
+                justify-content: flex-end;
             }
         }
     }

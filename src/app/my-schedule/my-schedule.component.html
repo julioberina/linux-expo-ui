@@ -9,28 +9,28 @@
 
 <div class="scrollable">
     <ng-container *ngFor="let item of displayedSchedule">
-        <div class="cards" *ngIf="inMySchedule(item.Path)">
+        <div class="schedule-card" *ngIf="inMySchedule(item.Path)">
             <mat-card>
-                <mat-card-title *ngIf="!isClicked[item.Path]" (click)="goToExpoPage(item.Path)">
-                    {{ item.Title }}
-                </mat-card-title>
-                <mat-card-title *ngIf="isClicked[item.Path]">
-                    <mat-spinner [diameter]="30"></mat-spinner>
-                </mat-card-title>
-                <mat-card-subtitle>
-                    <p>{{ item.Day}}, {{ item.Time }} in <strong>{{ item.Room }}</strong></p>
-                </mat-card-subtitle>
-                <mat-card-content>{{ item['Short-abstract'] }}</mat-card-content>
-                <mat-card-footer>
-                    <div>
-                        Topic: <strong>{{ item.Topic }}</strong>
-                    </div>
-                    <div>
-                        <button mat-mini-fab color="warn" (click)="removeMyScheduleItem(item)">
-                            <mat-icon>remove</mat-icon>
-                        </button>
-                    </div>
-                </mat-card-footer>
+                <mat-card-header>
+                    <mat-card-title *ngIf="!isClicked[item.Path]" (click)="goToExpoPage(item.Path)">
+                        {{ item.Title }}
+                    </mat-card-title>
+                    <mat-card-title *ngIf="isClicked[item.Path]">
+                        <mat-spinner [diameter]="20"></mat-spinner>
+                    </mat-card-title>
+                    <mat-card-subtitle>
+                        <p>{{ item.Topic }}</p>
+                    </mat-card-subtitle>
+                </mat-card-header>
+                <mat-card-content>
+                    <p>{{ item['Short-abstract'] }}</p>
+                    <p><fa-icon [icon]="faClock"></fa-icon>&nbsp;<strong>{{ item.Day }}, {{ item.Time }}</strong></p>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-icon-button color="warn" (click)="removeMyScheduleItem(item)">
+                        <mat-icon>remove</mat-icon>
+                    </button>
+                </mat-card-actions>
             </mat-card>
         </div>
     </ng-container>
