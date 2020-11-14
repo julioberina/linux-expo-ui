@@ -11,8 +11,8 @@
     <div class="schedule-card" *ngFor="let item of displayedSchedule">
         <mat-card>
             <mat-card-header>
-                <mat-card-title *ngIf="!isClicked[item.Path]" (click)="goToExpoPage(item.Path)">
-                    {{ item.Title }}
+                <mat-card-title>
+                    <a [href]="goToExpoPage(item.Path)">{{ item.Title }}</a>
                 </mat-card-title>
                 <mat-card-title *ngIf="isClicked[item.Path]">
                     <mat-spinner [diameter]="20"></mat-spinner>

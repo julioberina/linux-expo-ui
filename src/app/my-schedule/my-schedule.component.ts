@@ -87,8 +87,7 @@ export class MyScheduleComponent implements OnInit {
     this.snackBar.open('Removed event from My Schedule', 'Dismiss', { duration: 2000 });
   }
 
-  public goToExpoPage(path: string) {
-    this.isClicked[path] = true;
-    this.document.location.href = 'https://socallinuxexpo.org' + path;
+  public goToExpoPage(path: string): string {
+    return 'https://socallinuxexpo.org' + path;
   }
 }

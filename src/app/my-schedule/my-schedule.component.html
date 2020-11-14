@@ -12,11 +12,8 @@
         <div class="schedule-card" *ngIf="inMySchedule(item.Path)">
             <mat-card>
                 <mat-card-header>
-                    <mat-card-title *ngIf="!isClicked[item.Path]" (click)="goToExpoPage(item.Path)">
-                        {{ item.Title }}
-                    </mat-card-title>
-                    <mat-card-title *ngIf="isClicked[item.Path]">
-                        <mat-spinner [diameter]="20"></mat-spinner>
+                    <mat-card-title>
+                        <a [href]="goToExpoPage(item.Path)">{{ item.Title }}</a>
                     </mat-card-title>
                     <mat-card-subtitle>
                         <p>{{ item.Topic }}</p>
