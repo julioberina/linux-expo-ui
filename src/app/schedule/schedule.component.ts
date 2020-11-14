@@ -2,6 +2,7 @@ import { DOCUMENT } from '@angular/common';
 import { Component, Inject, OnInit } from '@angular/core';
 import { MatSnackBar } from '@angular/material/snack-bar';
 import { AppService } from '../app.service';
+import { faClock } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-schedule',
@@ -11,6 +12,7 @@ import { AppService } from '../app.service';
 export class ScheduleComponent implements OnInit {
   public schedule;
   public displayedSchedule;
+  public faClock = faClock;
 
   private mySchedule = [];
   private myScheduleItems = {};
