@@ -6,7 +6,7 @@
             </mat-card-header>
             <img mat-card-image [src]="event['image-url']">
             <mat-card-content>
-                <p><a [href]="event['event-url']">{{ event.title }}</a></p>
+                <p><a [href]="event['event-url']">{{ event.name }}</a></p>
                 <p>{{ event.body }}</p>
                 <ul *ngIf="event.list.length !== 0">
                     <li *ngFor="let item of event.list">{{ item }}</li>
