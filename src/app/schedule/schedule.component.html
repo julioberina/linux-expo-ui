@@ -26,10 +26,10 @@
                 <p><fa-icon [icon]="faClock"></fa-icon>&nbsp;<strong>{{ item.Day }}, {{ item.Time }}</strong></p>
             </mat-card-content>
             <mat-card-actions>
-                <button mat-mini-fab color="primary" *ngIf="!inMySchedule(item.Path)" (click)="addMyScheduleItem(item)">
+                <button mat-icon-button color="primary" *ngIf="!inMySchedule(item.Path)" (click)="addMyScheduleItem(item)">
                     <mat-icon>add</mat-icon>
                 </button>
-                <button mat-mini-fab class="inms" *ngIf="inMySchedule(item.Path)">
+                <button mat-icon-button class="inms" *ngIf="inMySchedule(item.Path)">
                     <mat-icon>check</mat-icon>
                 </button>
             </mat-card-actions>
