@@ -2,7 +2,7 @@
     <div class="exhibitor-card" *ngFor="let exhibitor of exhibitors">
         <mat-card>
             <mat-card-header>
-                <mat-card-title><a [href]="exhibitor['website-url']">{{ exhibitor.title }}</a></mat-card-title>
+                <mat-card-title><a [href]="exhibitor['website-url']" target="_blank">{{ exhibitor.title }}</a></mat-card-title>
                 <mat-card-subtitle *ngIf="exhibitor['sponsor-type'] !== ''">
                     {{ exhibitor['sponsor-type'] }}
                 </mat-card-subtitle>
