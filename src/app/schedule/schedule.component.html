@@ -23,7 +23,8 @@
             </mat-card-header>
             <mat-card-content>
                 <p>{{ item['Short-abstract'] }}</p>
-                <p><fa-icon [icon]="faClock"></fa-icon>&nbsp;<strong>{{ item.Day }}, {{ item.Time }}</strong></p>
+                <p><fa-icon [icon]="faClock"></fa-icon>&nbsp;<strong>{{ item.Day }}, {{ item.Time }}</strong><br>
+                <fa-icon [icon]="faBuilding"></fa-icon>&nbsp;&nbsp;<strong>{{ item.Room }}</strong></p>
             </mat-card-content>
             <mat-card-actions>
                 <button mat-icon-button color="primary" *ngIf="!inMySchedule(item.Path)" (click)="addMyScheduleItem(item)">
