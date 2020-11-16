@@ -22,7 +22,7 @@
                 <mat-card-content>
                     <p>{{ item['Short-abstract'] }}</p>
                     <p><fa-icon [icon]="faClock"></fa-icon>&nbsp;<strong>{{ item.Day }}, {{ item.Time }}</strong><br>
-                        <fa-icon [icon]="faBuilding"></fa-icon>&nbsp;&nbsp;<strong>{{ item.Room }}</strong></p>
+                        <fa-icon [icon]="faBuilding"></fa-icon>&nbsp;<strong>{{ item.Room }}</strong></p>
                 </mat-card-content>
                 <mat-card-actions>
                     <button mat-icon-button color="warn" (click)="removeMyScheduleItem(item)">
